@@ -1,0 +1,902 @@
+srcIp,total_events,unique_dst_ports,unique_dst_hosts,pct_sip,pct_smbd,pct_ssh,pct_telnet,pct_others,dominant_hour,hour_entropy,active_hours,srcCountryName,srcOrg,srcOrg_grouped,cluster,tipologi
+1.168.233.69,12,1,1,0.0,1.0,0.0,0.0,0.0,16,-0.0,1,Taiwan,Data Communication Business Group,others,1,SMB Brute-forcer
+1.172.72.20,12,1,1,0.0,1.0,0.0,0.0,0.0,11,-0.0,1,Taiwan,Data Communication Business Group,others,1,SMB Brute-forcer
+1.2.170.100,2,1,1,0.0,1.0,0.0,0.0,0.0,10,-0.0,1,Thailand,TOT Public Company Limited,others,1,SMB Brute-forcer
+1.227.83.31,2,1,1,0.0,1.0,0.0,0.0,0.0,3,-0.0,1,South Korea,SK Broadband Co Ltd,others,1,SMB Brute-forcer
+1.34.29.158,2,1,1,0.0,0.0,0.0,1.0,0.0,5,1.0,2,Taiwan,Data Communication Business Group,others,4,Telnet Botnet
+1.54.173.124,2,1,1,0.0,1.0,0.0,0.0,0.0,16,-0.0,1,Vietnam,FPT Telecom Company,others,1,SMB Brute-forcer
+101.108.1.222,2,1,1,0.0,1.0,0.0,0.0,0.0,21,-0.0,1,Thailand,TOT Public Company Limited,others,1,SMB Brute-forcer
+101.126.128.106,2,1,1,0.0,0.0,1.0,0.0,0.0,22,-0.0,1,China,"Beijing Volcano Engine Technology Co., Ltd.",others,2,SSH Brute-forcer
+101.126.143.235,6,1,1,0.0,0.0,1.0,0.0,0.0,9,-0.0,1,China,"Beijing Volcano Engine Technology Co., Ltd.",others,2,SSH Brute-forcer
+101.36.121.22,4,1,1,0.0,0.0,0.0,0.0,1.0,15,-0.0,1,Hong Kong,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,others,0,Mixed/Others Scanner
+101.91.181.235,3,1,1,0.0,0.0,1.0,0.0,0.0,20,-0.0,1,China,China Telecom Group,China Telecom Group,2,SSH Brute-forcer
+103.100.170.25,2,1,1,0.0,0.0,1.0,0.0,0.0,8,-0.0,1,Hong Kong,"OWGELS INTERNATIONAL CO., LIMITED",others,2,SSH Brute-forcer
+103.111.110.185,7,2,1,0.0,0.7142857142857143,0.0,0.0,0.2857142857142857,11,-0.0,1,India,Sparklink.Net Pvt Ltd,others,1,SMB Brute-forcer
+103.111.208.91,5,1,1,0.0,1.0,0.0,0.0,0.0,4,-0.0,1,Indonesia,PT Cyberindo Aditama,others,1,SMB Brute-forcer
+103.138.22.138,2,1,1,0.0,0.0,0.0,1.0,0.0,3,1.0,2,India,Anodic Telenetwork Private Limited,others,4,Telnet Botnet
+103.140.238.42,249,1,1,0.0,0.0,1.0,0.0,0.0,0,-0.0,1,Hong Kong,UFO Network Limited,others,2,SSH Brute-forcer
+103.142.210.62,4,1,1,0.0,1.0,0.0,0.0,0.0,7,-0.0,1,Indonesia,Pemerintah Kabupaten Gresik,others,1,SMB Brute-forcer
+103.144.175.51,3,1,1,0.0,1.0,0.0,0.0,0.0,3,-0.0,1,Indonesia,PT INDONESIA COMNETS PLUS,others,1,SMB Brute-forcer
+103.146.159.93,3,1,1,0.0,0.0,1.0,0.0,0.0,11,-0.0,1,Hong Kong,YISU CLOUD LTD,others,2,SSH Brute-forcer
+103.147.137.35,25,1,1,0.0,0.0,0.0,1.0,0.0,11,-0.0,1,India,Fibre Air Services Private Limited,others,4,Telnet Botnet
+103.149.252.178,21,1,1,0.0,0.0,0.0,1.0,0.0,10,-0.0,1,Vietnam,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY,others,4,Telnet Botnet
+103.171.47.134,44,1,1,0.0,1.0,0.0,0.0,0.0,5,-0.0,1,India,KKD BROADBAND PRIVATE LIMITED,others,1,SMB Brute-forcer
+103.173.9.51,2,1,1,0.0,0.0,0.0,1.0,0.0,23,-0.0,1,India,MEGNET,others,4,Telnet Botnet
+103.176.90.234,3,1,3,1.0,0.0,0.0,0.0,0.0,12,-0.0,1,Hong Kong,CBS-AS,others,5,SIP Scanner
+103.203.57.11,2,1,2,0.0,0.0,1.0,0.0,0.0,9,1.0,2,China,"Beijing Tiantexin Tech. Co., Ltd.",others,2,SSH Brute-forcer
+103.203.57.19,2,1,2,0.0,0.0,0.0,1.0,0.0,21,1.0,2,China,"Beijing Tiantexin Tech. Co., Ltd.",others,4,Telnet Botnet
+103.203.59.17,7,1,1,0.0,0.0,0.0,0.0,1.0,9,-0.0,1,China,"Beijing Tiantexin Tech. Co., Ltd.",others,0,Mixed/Others Scanner
+103.203.59.5,2,1,2,0.0,0.0,0.0,0.0,1.0,20,-0.0,1,China,"Beijing Tiantexin Tech. Co., Ltd.",others,0,Mixed/Others Scanner
+103.203.59.7,3,1,3,0.0,0.0,0.0,0.0,1.0,13,1.584962500721156,3,China,"Beijing Tiantexin Tech. Co., Ltd.",others,0,Mixed/Others Scanner
+103.204.156.49,7,1,1,0.0,0.0,0.0,1.0,0.0,18,2.235926350629033,5,India,GLORIOSA INFOTEL IT SERVICES INDIA PRIVATE LIMITED,others,4,Telnet Botnet
+103.214.229.236,2,1,1,0.0,0.0,0.0,0.0,1.0,2,-0.0,1,Indonesia,Politeknik Negeri Semarang,others,0,Mixed/Others Scanner
+103.229.193.252,2,1,2,0.0,0.0,1.0,0.0,0.0,13,1.0,2,Vietnam,Masters Technology Corporation,others,2,SSH Brute-forcer
+103.233.9.200,2,1,1,0.0,1.0,0.0,0.0,0.0,11,-0.0,1,Hong Kong,ABCDE GROUP,others,1,SMB Brute-forcer
+103.29.69.96,3,1,3,0.0,0.0,1.0,0.0,0.0,12,1.584962500721156,3,Japan,Akamai Connected Cloud,others,2,SSH Brute-forcer
+103.29.70.204,2,1,2,0.0,0.0,1.0,0.0,0.0,10,1.0,2,Japan,Akamai Connected Cloud,others,2,SSH Brute-forcer
+103.57.186.120,6,1,1,0.0,0.0,0.0,1.0,0.0,17,-0.0,1,India,DIGI STAR INFO SOLUTIONS PRIVATE LIMITED,others,4,Telnet Botnet
+103.70.167.121,2,1,1,0.0,0.0,0.0,1.0,0.0,0,-0.0,1,India,Userlinks Netcom Pvt. Ltd.,others,4,Telnet Botnet
+103.77.43.151,9,1,1,0.0,0.0,0.0,1.0,0.0,12,-0.0,1,India,Mynext Broadband Services Pvt Ltd,others,4,Telnet Botnet
+103.81.168.23,2,1,1,0.0,1.0,0.0,0.0,0.0,17,-0.0,1,China,HanMing HK Limited,others,1,SMB Brute-forcer
+103.81.168.44,2,1,1,0.0,1.0,0.0,0.0,0.0,7,-0.0,1,China,HanMing HK Limited,others,1,SMB Brute-forcer
+103.93.137.44,2,1,1,0.0,1.0,0.0,0.0,0.0,7,1.0,2,India,Syntego Technologies India Private Limited,others,1,SMB Brute-forcer
+103.93.93.162,43,1,2,0.0,0.0,0.0,1.0,0.0,5,0.9807983646944296,2,Indonesia,PT Jinde Grup Indonesia,others,4,Telnet Botnet
+103.99.196.66,24,1,1,0.0,0.0,0.0,1.0,0.0,18,-0.0,1,India,Maxnet Digital Pvt Ltd,others,4,Telnet Botnet
+104.152.52.217,2,1,1,0.0,0.0,1.0,0.0,0.0,20,-0.0,1,United States,RETHEMHOSTING,others,2,SSH Brute-forcer
+104.152.52.227,3,1,1,0.0,0.0,1.0,0.0,0.0,20,-0.0,1,United States,RETHEMHOSTING,others,2,SSH Brute-forcer
+104.152.52.228,2,1,1,0.0,0.0,1.0,0.0,0.0,20,-0.0,1,United States,RETHEMHOSTING,others,2,SSH Brute-forcer
+104.155.40.111,3,2,2,0.0,0.6666666666666666,0.0,0.0,0.3333333333333333,17,0.9182958340544896,2,Belgium,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+104.167.221.114,8,1,4,0.0,0.0,0.0,0.0,1.0,14,1.9056390622295665,4,United States,DEDIOUTLET-NETWORKS,others,3,Mixed/Others Scanner
+104.234.115.50,2,1,1,0.0,0.0,0.0,1.0,0.0,11,-0.0,1,Canada,GOOGLE-CLOUD-PLATFORM,others,4,Telnet Botnet
+104.234.115.69,4,1,1,0.0,0.0,1.0,0.0,0.0,13,-0.0,1,Canada,GOOGLE-CLOUD-PLATFORM,others,2,SSH Brute-forcer
+104.248.63.226,2,1,1,0.0,0.0,1.0,0.0,0.0,3,-0.0,1,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+106.75.31.28,2,1,1,0.0,0.0,0.0,0.0,1.0,9,-0.0,1,China,China Unicom Beijing Province Network,others,0,Mixed/Others Scanner
+106.75.35.191,2,1,1,0.0,0.0,0.0,0.0,1.0,14,-0.0,1,China,China Unicom Beijing Province Network,others,0,Mixed/Others Scanner
+106.75.50.248,2,1,1,0.0,0.0,0.0,0.0,1.0,15,-0.0,1,China,China Unicom Beijing Province Network,others,0,Mixed/Others Scanner
+106.75.50.4,2,1,2,0.0,0.0,0.0,0.0,1.0,6,1.0,2,China,China Unicom Beijing Province Network,others,0,Mixed/Others Scanner
+107.174.224.18,6,1,3,0.0,0.0,1.0,0.0,0.0,13,0.9182958340544896,2,United States,AS-COLOCROSSING,AS-COLOCROSSING,2,SSH Brute-forcer
+108.174.63.2,29,1,1,1.0,0.0,0.0,0.0,0.0,11,3.961429270989641,16,United States,AS-COLOCROSSING,AS-COLOCROSSING,5,SIP Scanner
+108.178.22.242,2,1,1,0.0,1.0,0.0,0.0,0.0,4,-0.0,1,United States,SINGLEHOP-LLC,SINGLEHOP-LLC,1,SMB Brute-forcer
+109.199.253.15,3152,1,1,0.0,1.0,0.0,0.0,0.0,20,0.9510998636887936,2,Bulgaria,ESCOM Ltd. - Haskovo,ESCOM Ltd. - Haskovo,1,SMB Brute-forcer
+110.83.153.184,7,1,1,0.0,0.0,0.0,1.0,0.0,9,-0.0,1,China,Chinanet,Chinanet,4,Telnet Botnet
+110.86.160.67,2,1,1,0.0,0.0,0.0,1.0,0.0,20,-0.0,1,China,Chinanet,Chinanet,4,Telnet Botnet
+111.1.72.186,11,1,1,0.0,0.0,0.0,0.0,1.0,12,-0.0,1,China,China Mobile communications corporation,others,0,Mixed/Others Scanner
+111.173.89.134,9,1,1,0.0,0.0,1.0,0.0,0.0,20,-0.0,1,China,China Telecom,others,2,SSH Brute-forcer
+111.180.193.61,2,1,1,0.0,0.0,0.0,0.0,1.0,9,-0.0,1,China,China Telecom,others,0,Mixed/Others Scanner
+111.22.101.226,4,1,1,0.0,0.0,0.0,1.0,0.0,0,-0.0,1,China,China Mobile communications corporation,others,4,Telnet Botnet
+111.61.20.185,2,1,1,0.0,1.0,0.0,0.0,0.0,5,-0.0,1,China,Hebei Mobile Communication Company Limited,others,1,SMB Brute-forcer
+112.247.189.150,3,1,1,0.0,0.0,0.0,1.0,0.0,19,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+112.46.193.136,3,1,1,0.0,0.0,1.0,0.0,0.0,15,-0.0,1,China,"China Mobile Communications Group Co., Ltd.",others,2,SSH Brute-forcer
+112.6.14.93,2,1,1,0.0,0.0,1.0,0.0,0.0,10,-0.0,1,China,Shandong Mobile Communication Company Limited,others,2,SSH Brute-forcer
+113.111.247.193,2,1,1,0.0,0.0,0.0,1.0,0.0,22,-0.0,1,China,Chinanet,Chinanet,4,Telnet Botnet
+113.164.234.27,3,1,1,0.0,0.0,1.0,0.0,0.0,8,-0.0,1,Vietnam,VNPT Corp,VNPT Corp,2,SSH Brute-forcer
+113.204.34.182,2,1,1,0.0,0.0,0.0,0.0,1.0,21,-0.0,1,China,CHINA UNICOM China169 Backbone,others,0,Mixed/Others Scanner
+113.56.161.14,4,2,2,0.0,0.0,0.75,0.25,0.0,18,0.8112781244591328,2,China,CHINA UNICOM China169 Backbone,others,2,SSH Brute-forcer
+114.135.80.199,44,1,1,0.0,1.0,0.0,0.0,0.0,5,-0.0,1,China,Chinanet,Chinanet,1,SMB Brute-forcer
+114.199.196.153,2,1,1,0.0,0.0,0.0,1.0,0.0,18,-0.0,1,South Korea,Kumho Cable,others,4,Telnet Botnet
+114.35.68.198,2,1,1,0.0,0.0,0.0,1.0,0.0,0,-0.0,1,Taiwan,Data Communication Business Group,others,4,Telnet Botnet
+114.79.147.173,5,1,1,0.0,1.0,0.0,0.0,0.0,8,-0.0,1,India,D-Vois Broadband Pvt Ltd,others,1,SMB Brute-forcer
+114.89.196.115,2,1,1,0.0,0.0,0.0,1.0,0.0,4,-0.0,1,China,China Telecom Group,China Telecom Group,4,Telnet Botnet
+114.95.171.123,2,1,1,0.0,1.0,0.0,0.0,0.0,17,-0.0,1,China,China Telecom Group,China Telecom Group,1,SMB Brute-forcer
+115.190.110.210,4,1,1,0.0,0.0,1.0,0.0,0.0,7,-0.0,1,China,"Beijing Volcano Engine Technology Co., Ltd.",others,2,SSH Brute-forcer
+115.246.103.242,2,1,1,0.0,0.0,0.0,0.0,1.0,10,-0.0,1,India,Reliance Jio Infocomm Limited,others,0,Mixed/Others Scanner
+115.48.146.17,24,1,1,0.0,0.0,0.0,1.0,0.0,21,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+115.49.28.34,24,1,1,0.0,0.0,0.0,1.0,0.0,19,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+115.49.37.97,18,1,1,0.0,0.0,0.0,1.0,0.0,13,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+115.57.196.17,8,1,1,0.0,0.0,0.0,1.0,0.0,21,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+116.105.209.152,16,2,1,0.0,0.0,0.875,0.125,0.0,16,0.8960382325345574,2,Vietnam,Viettel Corporation,others,2,SSH Brute-forcer
+116.110.0.152,9,2,1,0.0,0.0,0.8888888888888888,0.1111111111111111,0.0,23,0.5032583347756457,2,Vietnam,Viettel Corporation,others,2,SSH Brute-forcer
+116.193.129.247,7,2,1,0.0,0.7142857142857143,0.0,0.0,0.2857142857142857,9,-0.0,1,India,Alliance Broadband Services Pvt. Ltd.,others,1,SMB Brute-forcer
+116.193.134.2,2,1,1,0.0,0.0,0.0,1.0,0.0,8,1.0,2,India,Alliance Broadband Services Pvt. Ltd.,others,4,Telnet Botnet
+116.23.139.36,2,1,1,0.0,0.0,0.0,1.0,0.0,22,-0.0,1,China,Chinanet,Chinanet,4,Telnet Botnet
+116.237.56.20,5,1,1,0.0,1.0,0.0,0.0,0.0,19,-0.0,1,China,China Telecom Group,China Telecom Group,1,SMB Brute-forcer
+116.41.81.52,2,1,1,0.0,0.0,0.0,1.0,0.0,21,-0.0,1,South Korea,LG POWERCOMM,others,4,Telnet Botnet
+116.98.165.17,15,2,1,0.0,0.0,0.9333333333333332,0.0666666666666666,0.0,6,-0.0,1,Vietnam,Viettel Corporation,others,2,SSH Brute-forcer
+116.98.173.224,3,2,1,0.0,0.0,0.6666666666666666,0.3333333333333333,0.0,6,-0.0,1,Vietnam,Viettel Corporation,others,2,SSH Brute-forcer
+116.98.173.75,12,2,1,0.0,0.0,0.9166666666666666,0.0833333333333333,0.0,23,-0.0,1,Vietnam,Viettel Corporation,others,2,SSH Brute-forcer
+117.193.169.245,24,1,1,0.0,0.0,0.0,1.0,0.0,7,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+117.204.166.218,25,1,1,0.0,0.0,0.0,1.0,0.0,0,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+117.209.81.101,11,1,1,0.0,0.0,0.0,1.0,0.0,15,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+117.211.157.252,7,1,1,0.0,0.0,0.0,1.0,0.0,14,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+117.211.208.110,25,1,1,0.0,0.0,0.0,1.0,0.0,9,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+117.213.250.41,15,1,1,0.0,0.0,0.0,1.0,0.0,21,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+117.215.102.59,8,1,1,0.0,0.0,0.0,1.0,0.0,19,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+117.215.16.136,25,1,1,0.0,0.0,0.0,1.0,0.0,17,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+117.215.49.215,25,1,1,0.0,0.0,0.0,1.0,0.0,14,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+117.215.58.61,3,1,1,0.0,0.0,0.0,1.0,0.0,22,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+117.216.155.162,3,1,1,0.0,0.0,0.0,1.0,0.0,2,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+117.233.194.31,3,1,1,0.0,0.0,0.0,1.0,0.0,22,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+117.247.89.177,6,1,1,0.0,1.0,0.0,0.0,0.0,5,-0.0,1,India,National Internet Backbone,National Internet Backbone,1,SMB Brute-forcer
+117.250.148.210,5,1,1,0.0,1.0,0.0,0.0,0.0,15,-0.0,1,India,National Internet Backbone,National Internet Backbone,1,SMB Brute-forcer
+117.254.37.184,4,1,1,0.0,1.0,0.0,0.0,0.0,10,-0.0,1,India,National Internet Backbone,National Internet Backbone,1,SMB Brute-forcer
+117.7.205.164,6,1,1,0.0,0.0,1.0,0.0,0.0,19,-0.0,1,Vietnam,Viettel Group,others,2,SSH Brute-forcer
+118.102.29.68,5,1,1,0.0,0.0,1.0,0.0,0.0,7,-0.0,1,China,"IDC, China Telecommunications Corporation",others,2,SSH Brute-forcer
+118.21.67.94,2,1,1,0.0,0.0,0.0,1.0,0.0,18,-0.0,1,Japan,NTT Communications Corporation,others,4,Telnet Botnet
+118.26.111.94,4,1,1,0.0,0.0,0.0,0.0,1.0,15,-0.0,1,Singapore,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,others,0,Mixed/Others Scanner
+118.31.52.241,250,1,1,0.0,0.0,1.0,0.0,0.0,5,-0.0,1,China,"Hangzhou Alibaba Advertising Co.,Ltd.",others,2,SSH Brute-forcer
+119.119.153.185,12,1,2,0.0,0.0,0.0,1.0,0.0,18,0.9798687566511528,2,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+119.178.139.118,12,1,1,0.0,0.0,0.0,0.0,1.0,4,-0.0,1,China,CHINA UNICOM China169 Backbone,others,0,Mixed/Others Scanner
+119.179.32.36,9,1,2,0.0,0.0,0.0,1.0,0.0,22,0.9910760598382222,2,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+119.187.149.238,2,1,1,0.0,0.0,0.0,0.0,1.0,5,-0.0,1,China,CHINA UNICOM China169 Backbone,others,0,Mixed/Others Scanner
+119.4.53.5,3,1,1,0.0,0.0,0.0,1.0,0.0,22,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+120.194.104.163,2,1,1,0.0,0.0,0.0,0.0,1.0,20,-0.0,1,China,"Henan Mobile Communications Co.,Ltd",others,0,Mixed/Others Scanner
+120.211.11.85,2,2,1,0.0,0.5,0.0,0.0,0.5,1,-0.0,1,China,Hebei Mobile Communication Company Limited,others,0,Mixed/Others Scanner
+120.25.154.169,2,1,1,0.0,1.0,0.0,0.0,0.0,10,-0.0,1,China,"Hangzhou Alibaba Advertising Co.,Ltd.",others,1,SMB Brute-forcer
+120.43.48.24,5,1,1,0.0,0.0,0.0,1.0,0.0,9,-0.0,1,China,Chinanet,Chinanet,4,Telnet Botnet
+120.57.122.93,5,1,1,0.0,0.0,0.0,1.0,0.0,10,-0.0,1,India,Mahanagar Telephone Nigam Limited,others,4,Telnet Botnet
+120.60.108.129,2,1,1,0.0,0.0,0.0,1.0,0.0,13,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+120.61.198.229,50,1,1,0.0,0.0,0.0,1.0,0.0,9,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+120.78.158.138,4,1,1,0.0,0.0,1.0,0.0,0.0,11,-0.0,1,China,"Hangzhou Alibaba Advertising Co.,Ltd.",others,2,SSH Brute-forcer
+120.84.214.111,54,1,1,0.0,0.0,0.0,1.0,0.0,14,-0.0,1,China,China Unicom IP network China169 Guangdong province,others,4,Telnet Botnet
+121.114.203.90,4,1,1,0.0,0.0,0.0,1.0,0.0,2,1.0,2,Japan,NTT Communications Corporation,others,4,Telnet Botnet
+121.12.155.218,2,1,1,0.0,0.0,0.0,0.0,1.0,6,-0.0,1,China,Chinanet,Chinanet,0,Mixed/Others Scanner
+121.132.188.33,8,1,2,0.0,0.0,0.0,1.0,0.0,7,0.8112781244591328,2,South Korea,Korea Telecom,others,4,Telnet Botnet
+121.161.149.104,2,1,1,0.0,0.0,0.0,1.0,0.0,18,1.0,2,South Korea,Korea Telecom,others,4,Telnet Botnet
+121.164.193.224,5,1,1,0.0,0.0,0.0,1.0,0.0,12,-0.0,1,South Korea,Korea Telecom,others,4,Telnet Botnet
+121.176.99.160,6,1,1,0.0,0.0,1.0,0.0,0.0,19,-0.0,1,South Korea,Korea Telecom,others,2,SSH Brute-forcer
+121.204.188.9,2,1,1,0.0,0.0,1.0,0.0,0.0,21,-0.0,1,China,Fuzhou,others,2,SSH Brute-forcer
+121.228.41.44,20,1,1,0.0,0.0,0.0,0.0,1.0,17,-0.0,1,China,Chinanet,Chinanet,0,Mixed/Others Scanner
+122.116.47.137,4,1,2,0.0,0.0,0.0,1.0,0.0,4,2.0,4,Taiwan,Data Communication Business Group,others,4,Telnet Botnet
+122.171.214.48,3,2,1,0.0,0.3333333333333333,0.0,0.0,0.6666666666666666,12,0.9182958340544896,2,India,"Bharti Airtel Ltd., Telemedia Services",others,0,Mixed/Others Scanner
+122.194.9.249,2,1,1,0.0,0.0,0.0,1.0,0.0,6,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+122.3.185.236,2,1,1,0.0,1.0,0.0,0.0,0.0,19,-0.0,1,Philippines,Philippine Long Distance Telephone Company,others,1,SMB Brute-forcer
+122.5.32.94,5,1,1,0.0,1.0,0.0,0.0,0.0,15,-0.0,1,China,Chinanet,Chinanet,1,SMB Brute-forcer
+122.54.143.156,2,1,1,0.0,1.0,0.0,0.0,0.0,19,-0.0,1,Philippines,Philippine Long Distance Telephone Company,others,1,SMB Brute-forcer
+122.96.48.90,7,1,1,0.0,0.0,0.0,1.0,0.0,20,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+122.97.137.190,11,1,1,0.0,0.0,0.0,1.0,0.0,20,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+123.11.141.117,8,1,1,0.0,0.0,0.0,1.0,0.0,17,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+123.130.89.138,6,1,1,0.0,0.0,0.0,1.0,0.0,14,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+123.16.179.70,6,1,1,0.0,0.0,1.0,0.0,0.0,3,1.7924812503605778,4,Vietnam,VNPT Corp,VNPT Corp,2,SSH Brute-forcer
+123.16.179.96,10,1,1,0.0,0.0,1.0,0.0,0.0,19,2.4464393446710155,6,Vietnam,VNPT Corp,VNPT Corp,2,SSH Brute-forcer
+123.209.65.159,5,1,1,0.0,0.0,1.0,0.0,0.0,9,-0.0,1,Australia,Telstra Limited,others,2,SSH Brute-forcer
+123.25.243.76,5,1,1,0.0,1.0,0.0,0.0,0.0,4,-0.0,1,Vietnam,VNPT Corp,VNPT Corp,1,SMB Brute-forcer
+124.88.121.251,5,1,1,0.0,0.0,0.0,1.0,0.0,18,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+125.140.150.104,3,1,1,0.0,0.0,0.0,1.0,0.0,15,-0.0,1,South Korea,Korea Telecom,others,4,Telnet Botnet
+125.19.224.182,2,1,1,0.0,1.0,0.0,0.0,0.0,14,1.0,2,India,BHARTI Airtel Ltd.,others,1,SMB Brute-forcer
+125.227.58.204,2,1,1,0.0,1.0,0.0,0.0,0.0,17,-0.0,1,Taiwan,Data Communication Business Group,others,1,SMB Brute-forcer
+125.228.33.234,2,1,2,0.0,0.0,0.0,1.0,0.0,4,1.0,2,Taiwan,Data Communication Business Group,others,4,Telnet Botnet
+125.36.92.10,2,1,1,0.0,0.0,0.0,0.0,1.0,15,-0.0,1,China,CHINA UNICOM China169 Backbone,others,0,Mixed/Others Scanner
+125.44.158.232,7,1,1,0.0,0.0,0.0,1.0,0.0,22,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+128.14.236.30,4,1,1,0.0,0.0,0.0,0.0,1.0,22,-0.0,1,United States,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,others,0,Mixed/Others Scanner
+128.241.230.60,14228,1,1,0.0,0.0,0.0,1.0,0.0,9,4.35385751739165,24,United States,Tianfeng (Hong Kong) Communications Limited,Tianfeng (Hong Kong) Communications Limited,3,Mixed/Others Scanner
+129.0.53.10,5,1,1,0.0,1.0,0.0,0.0,0.0,7,-0.0,1,Cameroon,MTN-NS-CAMEROON,others,1,SMB Brute-forcer
+13.86.104.46,2,1,1,0.0,0.0,1.0,0.0,0.0,14,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,2,SSH Brute-forcer
+13.89.125.18,2,1,1,0.0,0.0,1.0,0.0,0.0,11,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,2,SSH Brute-forcer
+13.89.125.19,2,2,2,0.5,0.0,0.0,0.0,0.5,12,1.0,2,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,0,Mixed/Others Scanner
+133.130.205.97,2,1,1,0.0,0.0,0.0,1.0,0.0,9,-0.0,1,Japan,"NTT PC Communications, Inc.",others,4,Telnet Botnet
+134.122.24.209,2,1,1,0.0,0.0,0.0,0.0,1.0,8,-0.0,1,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,0,Mixed/Others Scanner
+134.199.160.187,470,1,1,0.0,0.0,1.0,0.0,0.0,19,1.4952283799036072,3,Australia,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+134.199.197.178,9,1,1,0.0,0.0,1.0,0.0,0.0,16,0.7642045065086203,2,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+134.199.207.230,3,1,3,0.0,0.0,0.0,0.0,1.0,23,-0.0,1,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,0,Mixed/Others Scanner
+134.209.118.245,2,1,1,0.0,0.0,0.0,0.0,1.0,2,-0.0,1,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,0,Mixed/Others Scanner
+135.119.184.174,9,6,1,0.0,0.0,0.1111111111111111,0.2222222222222222,0.6666666666666666,23,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,0,Mixed/Others Scanner
+135.148.53.228,2,1,1,0.0,1.0,0.0,0.0,0.0,21,-0.0,1,United States,OVH SAS,OVH SAS,1,SMB Brute-forcer
+138.124.30.225,248,1,1,0.0,0.0,1.0,0.0,0.0,13,-0.0,1,The Netherlands,Baykov Ilya Sergeevich,others,2,SSH Brute-forcer
+138.197.136.180,2,1,1,0.0,0.0,1.0,0.0,0.0,1,-0.0,1,Canada,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+138.36.38.77,3,1,3,1.0,0.0,0.0,0.0,0.0,10,1.584962500721156,3,Brazil,C & A NET INFORMATICA E INTERNET - ME,others,5,SIP Scanner
+138.68.170.24,248,1,1,0.0,0.0,1.0,0.0,0.0,15,-0.0,1,United Kingdom,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+139.162.117.40,2,1,1,0.0,0.0,0.0,0.0,1.0,21,1.0,2,Japan,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+139.162.70.53,3,1,2,0.0,0.0,0.0,0.0,1.0,1,0.9182958340544896,2,Japan,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+139.19.117.130,5,1,1,0.0,0.0,1.0,0.0,0.0,22,2.321928094887362,5,Germany,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,others,2,SSH Brute-forcer
+139.196.75.248,2,1,1,0.0,1.0,0.0,0.0,0.0,5,-0.0,1,China,"Hangzhou Alibaba Advertising Co.,Ltd.",others,1,SMB Brute-forcer
+14.235.178.7,3153,1,1,0.0,1.0,0.0,0.0,0.0,18,0.1059971491047081,2,Vietnam,VNPT Corp,VNPT Corp,1,SMB Brute-forcer
+141.98.11.116,2,1,1,0.0,0.0,0.0,1.0,0.0,23,1.0,2,Lithuania,UAB Host Baltic,others,4,Telnet Botnet
+142.112.72.181,8,1,1,0.0,0.0,0.0,1.0,0.0,14,1.2987949406953985,3,Canada,BACOM,others,4,Telnet Botnet
+142.44.149.135,8,8,1,0.0,0.0,0.0,0.125,0.875,11,-0.0,1,Canada,OVH SAS,OVH SAS,0,Mixed/Others Scanner
+142.44.212.226,5,1,1,0.0,0.0,1.0,0.0,0.0,7,-0.0,1,Canada,OVH SAS,OVH SAS,2,SSH Brute-forcer
+142.93.191.172,248,1,1,0.0,0.0,1.0,0.0,0.0,19,0.0378789466714906,2,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+143.110.142.48,34,1,1,0.0,0.0,0.0,0.0,1.0,0,-0.0,1,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,0,Mixed/Others Scanner
+143.198.120.150,2,1,1,0.0,0.0,0.0,0.0,1.0,2,-0.0,1,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,0,Mixed/Others Scanner
+143.198.96.196,248,1,1,0.0,0.0,1.0,0.0,0.0,12,-0.0,1,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+143.244.154.227,2,1,2,0.0,0.0,0.0,0.0,1.0,2,-0.0,1,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,0,Mixed/Others Scanner
+143.255.149.97,2,1,1,0.0,0.0,0.0,1.0,0.0,18,1.0,2,Brazil,Une Telecom Ltda,others,4,Telnet Botnet
+144.172.98.254,4,1,1,0.0,1.0,0.0,0.0,0.0,21,1.0,2,United States,ROUTERHOSTING,others,1,SMB Brute-forcer
+145.249.115.234,4,1,3,0.0,0.0,0.0,0.0,1.0,12,1.5,3,Russia,Global Connectivity Solutions Llp,others,0,Mixed/Others Scanner
+146.148.7.25,3,2,1,0.0,0.0,0.0,0.0,1.0,4,0.9182958340544896,2,Belgium,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+146.190.174.211,3,1,1,0.0,0.0,1.0,0.0,0.0,14,1.584962500721156,3,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+146.190.69.30,2,1,2,0.0,0.0,0.0,0.0,1.0,16,1.0,2,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,0,Mixed/Others Scanner
+147.185.132.174,3,1,1,0.0,1.0,0.0,0.0,0.0,20,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+147.185.132.187,2,2,1,0.0,0.0,0.0,0.0,1.0,20,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+147.185.132.213,2,1,2,0.0,0.0,1.0,0.0,0.0,5,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,2,SSH Brute-forcer
+147.185.132.240,4,1,1,0.0,0.0,0.0,0.0,1.0,12,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+147.185.132.48,2,2,1,0.0,0.0,0.0,0.0,1.0,17,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+147.185.132.52,2,2,2,0.0,0.0,0.5,0.0,0.5,10,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+147.185.132.70,7,2,2,0.0,0.4285714285714285,0.0,0.0,0.5714285714285714,10,0.9852281360342516,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+147.50.182.238,4,1,1,0.0,1.0,0.0,0.0,0.0,21,-0.0,1,Thailand,SBN-ISPAWN-ISP and SBN-NIXAWN-NIX,others,1,SMB Brute-forcer
+148.113.208.45,3,1,1,0.0,0.0,0.0,0.0,1.0,8,1.584962500721156,3,Canada,OVH SAS,OVH SAS,0,Mixed/Others Scanner
+148.113.210.228,17,1,1,0.0,0.0,0.0,0.0,1.0,23,1.2607717938967942,3,Canada,OVH SAS,OVH SAS,0,Mixed/Others Scanner
+148.113.214.202,24,2,1,0.0,0.9166666666666666,0.0,0.0,0.0833333333333333,1,1.5545851693377994,3,Canada,OVH SAS,OVH SAS,1,SMB Brute-forcer
+148.113.214.204,5,1,1,0.0,0.0,0.0,0.0,1.0,21,-0.0,1,Canada,OVH SAS,OVH SAS,0,Mixed/Others Scanner
+148.153.56.174,16,1,1,0.0,0.0,1.0,0.0,0.0,20,-0.0,1,United States,CDSC-AS1,others,2,SSH Brute-forcer
+149.50.103.48,19,1,4,0.0,0.0,0.0,0.0,1.0,11,2.6292492238560343,7,Poland,MEVSPACE sp. z o.o.,others,3,Mixed/Others Scanner
+150.107.248.50,4,1,1,0.0,1.0,0.0,0.0,0.0,12,-0.0,1,Indonesia,PT Bintang Global Abadi,others,1,SMB Brute-forcer
+150.107.36.236,16,1,1,0.0,0.0,1.0,0.0,0.0,19,-0.0,1,Hong Kong,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,others,2,SSH Brute-forcer
+150.107.38.251,16,1,1,0.0,0.0,1.0,0.0,0.0,6,-0.0,1,Hong Kong,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,others,2,SSH Brute-forcer
+150.138.77.219,2,1,1,0.0,0.0,1.0,0.0,0.0,8,-0.0,1,China,"Zaozhuang,Shandong Province, P.R.China.",others,2,SSH Brute-forcer
+151.54.240.120,2,1,1,0.0,0.0,0.0,1.0,0.0,1,-0.0,1,Italy,Wind Tre S.p.A.,others,4,Telnet Botnet
+152.32.151.39,4,1,1,0.0,0.0,0.0,0.0,1.0,13,-0.0,1,United States,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,others,0,Mixed/Others Scanner
+152.32.183.231,4,1,1,0.0,0.0,0.0,0.0,1.0,21,-0.0,1,United States,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,others,0,Mixed/Others Scanner
+152.32.202.244,4,1,1,0.0,0.0,1.0,0.0,0.0,22,-0.0,1,Japan,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,others,2,SSH Brute-forcer
+152.32.245.186,3,1,1,0.0,0.0,0.0,0.0,1.0,18,-0.0,1,Thailand,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,others,0,Mixed/Others Scanner
+152.59.220.22,2,1,1,0.0,0.0,0.0,0.0,1.0,10,-0.0,1,India,Reliance Jio Infocomm Limited,others,0,Mixed/Others Scanner
+153.144.113.206,2,1,2,0.0,0.0,0.0,1.0,0.0,19,-0.0,1,Japan,NTT Communications Corporation,others,4,Telnet Botnet
+154.212.141.140,6,1,1,0.0,1.0,0.0,0.0,0.0,21,-0.0,1,Hong Kong,AGOTOZ PTE. LTD.,others,1,SMB Brute-forcer
+154.212.141.156,2,1,1,0.0,0.0,1.0,0.0,0.0,17,-0.0,1,Hong Kong,AGOTOZ PTE. LTD.,others,2,SSH Brute-forcer
+154.212.141.162,6,1,1,0.0,1.0,0.0,0.0,0.0,6,-0.0,1,Hong Kong,AGOTOZ PTE. LTD.,others,1,SMB Brute-forcer
+154.212.141.171,6,1,1,0.0,1.0,0.0,0.0,0.0,1,-0.0,1,Hong Kong,AGOTOZ PTE. LTD.,others,1,SMB Brute-forcer
+154.212.141.177,2,1,1,0.0,0.0,1.0,0.0,0.0,16,-0.0,1,Hong Kong,AGOTOZ PTE. LTD.,others,2,SSH Brute-forcer
+154.212.141.183,6,1,1,0.0,1.0,0.0,0.0,0.0,3,-0.0,1,Hong Kong,AGOTOZ PTE. LTD.,others,1,SMB Brute-forcer
+154.212.141.189,2,1,1,0.0,0.0,1.0,0.0,0.0,16,-0.0,1,Hong Kong,AGOTOZ PTE. LTD.,others,2,SSH Brute-forcer
+154.58.132.196,9,1,1,0.0,0.0,1.0,0.0,0.0,20,2.725480556997868,7,India,DATAGEEKS CLOUD IP TECHNOLOGY PRIVATE LIMITED,others,2,SSH Brute-forcer
+154.61.72.205,2,1,1,0.0,1.0,0.0,0.0,0.0,1,-0.0,1,India,MYBHARAT NET PRIVATE LIMITED,others,1,SMB Brute-forcer
+154.72.202.62,5,1,1,0.0,1.0,0.0,0.0,0.0,19,-0.0,1,Uganda,NITA,others,1,SMB Brute-forcer
+156.0.249.66,2,1,1,0.0,1.0,0.0,0.0,0.0,12,-0.0,1,Nigeria,Platinum-Index-AS,others,1,SMB Brute-forcer
+156.229.16.165,4,1,1,0.0,0.0,0.0,0.0,1.0,1,-0.0,1,United States,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,others,0,Mixed/Others Scanner
+157.10.157.253,3146,1,1,0.0,1.0,0.0,0.0,0.0,7,0.1061878354620964,2,Indonesia,Dinas Komunikasi dan Informatika Kabupaten Ciamis,Dinas Komunikasi dan Informatika Kabupaten Ciamis,1,SMB Brute-forcer
+157.10.26.202,2,1,1,0.0,0.0,0.0,0.0,1.0,15,-0.0,1,India,VORTEX NETWORKS PRIVATE LIMITED,others,0,Mixed/Others Scanner
+158.220.125.2,2,1,1,0.0,1.0,0.0,0.0,0.0,12,1.0,2,Germany,Contabo GmbH,others,1,SMB Brute-forcer
+158.51.96.38,4,1,1,0.0,0.0,1.0,0.0,0.0,1,-0.0,1,United States,NETINF-TRANSIT-AS,others,2,SSH Brute-forcer
+159.100.9.240,3,1,3,0.0,0.0,0.0,0.0,1.0,17,-0.0,1,Germany,firstcolo GmbH,others,0,Mixed/Others Scanner
+159.223.228.104,2,1,1,0.0,0.0,1.0,0.0,0.0,3,-0.0,1,The Netherlands,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+159.89.148.184,34,1,1,0.0,0.0,0.0,0.0,1.0,1,-0.0,1,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,0,Mixed/Others Scanner
+160.191.3.29,2,1,1,0.0,0.0,1.0,0.0,0.0,19,-0.0,1,Vietnam,Cloud Viet Technology Company Limited,others,2,SSH Brute-forcer
+161.132.109.66,2,1,1,0.0,1.0,0.0,0.0,0.0,15,-0.0,1,Peru,WIN EMPRESAS S.A.C.,others,1,SMB Brute-forcer
+161.35.209.95,2,1,1,0.0,0.0,1.0,0.0,0.0,18,-0.0,1,Germany,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+162.142.125.35,3,1,1,0.0,0.0,0.0,1.0,0.0,14,-0.0,1,United States,CENSYS-ARIN-01,others,4,Telnet Botnet
+162.142.125.39,2,1,1,0.0,1.0,0.0,0.0,0.0,14,-0.0,1,United States,CENSYS-ARIN-01,others,1,SMB Brute-forcer
+162.142.125.40,6,2,2,0.0,0.0,0.0,0.0,1.0,11,0.6500224216483541,2,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+162.142.125.43,2,1,1,0.0,1.0,0.0,0.0,0.0,19,-0.0,1,United States,CENSYS-ARIN-01,others,1,SMB Brute-forcer
+162.216.140.18,5,1,1,0.0,1.0,0.0,0.0,0.0,4,-0.0,1,India,K Net Solutions Pvt Ltd,others,1,SMB Brute-forcer
+162.216.149.242,2,1,1,0.0,0.0,0.0,0.0,1.0,6,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+162.216.150.128,2,1,2,0.0,0.0,0.0,0.0,1.0,20,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+162.216.150.163,2,2,1,0.0,0.0,0.0,0.0,1.0,18,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+162.216.150.18,2,1,1,0.0,0.0,0.0,0.0,1.0,10,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+162.216.150.230,2,2,1,0.0,0.0,0.0,0.0,1.0,1,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+162.216.150.72,2,1,1,0.0,0.0,0.0,0.0,1.0,0,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+162.243.253.49,13,1,1,0.0,0.0,1.0,0.0,0.0,7,-0.0,1,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+164.100.146.28,2,1,1,0.0,1.0,0.0,0.0,0.0,6,1.0,2,India,NKN Core Network,others,1,SMB Brute-forcer
+164.52.24.187,3,1,1,0.0,0.0,0.0,0.0,1.0,5,-0.0,1,Japan,CDSC-AS1,others,0,Mixed/Others Scanner
+164.92.210.70,2,1,1,0.0,0.0,1.0,0.0,0.0,21,1.0,2,The Netherlands,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+165.154.11.225,5,1,1,0.0,0.0,0.0,0.0,1.0,13,-0.0,1,Nigeria,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,others,0,Mixed/Others Scanner
+165.154.163.10,4,1,1,0.0,0.0,0.0,0.0,1.0,7,-0.0,1,United States,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,others,0,Mixed/Others Scanner
+165.154.36.102,6,1,1,0.0,1.0,0.0,0.0,0.0,12,-0.0,1,United States,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,others,1,SMB Brute-forcer
+165.188.140.39,2,1,1,0.0,1.0,0.0,0.0,0.0,16,-0.0,1,United States,ATLANTICBB-JOHNSTOWN,others,1,SMB Brute-forcer
+165.22.135.53,34,1,1,0.0,0.0,0.0,0.0,1.0,1,-0.0,1,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,0,Mixed/Others Scanner
+166.157.187.161,2,1,1,0.0,0.0,1.0,0.0,0.0,19,-0.0,1,United States,CELLCO-PART,others,2,SSH Brute-forcer
+167.86.113.177,2,1,2,0.0,0.0,0.0,1.0,0.0,11,1.0,2,France,Contabo GmbH,others,4,Telnet Botnet
+167.88.169.158,350,1,4,1.0,0.0,0.0,0.0,0.0,8,1.8322528648401144,4,United States,ROUTERHOSTING,others,5,SIP Scanner
+167.94.138.116,5,1,1,0.0,0.0,0.0,1.0,0.0,10,-0.0,1,United States,CENSYS-ARIN-01,others,4,Telnet Botnet
+167.94.138.162,2,1,1,0.0,1.0,0.0,0.0,0.0,2,-0.0,1,United States,CENSYS-ARIN-01,others,1,SMB Brute-forcer
+167.94.138.172,3,1,1,0.0,0.0,0.0,0.0,1.0,14,-0.0,1,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+167.94.138.194,3,2,2,0.0,0.6666666666666666,0.3333333333333333,0.0,0.0,9,0.9182958340544896,2,United States,CENSYS-ARIN-01,others,1,SMB Brute-forcer
+167.94.138.197,2,2,2,0.0,0.0,0.0,0.0,1.0,1,1.0,2,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+167.94.138.199,3,2,2,0.0,0.6666666666666666,0.0,0.0,0.3333333333333333,19,0.9182958340544896,2,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+167.94.138.201,4,2,1,0.0,0.0,0.0,0.75,0.25,8,0.8112781244591328,2,United States,CENSYS-ARIN-01,others,4,Telnet Botnet
+167.94.138.203,5,1,1,0.0,0.0,0.0,1.0,0.0,14,-0.0,1,United States,CENSYS-ARIN-01,others,4,Telnet Botnet
+167.94.138.60,2,2,1,0.0,0.0,0.5,0.0,0.5,18,1.0,2,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+167.94.145.101,9,3,2,0.0,0.0,0.0,0.3333333333333333,0.6666666666666666,12,0.5032583347756457,2,United States,CENSYS-ARIN-02,others,0,Mixed/Others Scanner
+167.94.145.104,5,1,1,0.0,0.0,0.0,0.0,1.0,18,-0.0,1,United States,CENSYS-ARIN-02,others,0,Mixed/Others Scanner
+167.94.145.108,2,2,2,0.0,0.0,0.0,0.0,1.0,3,1.0,2,United States,CENSYS-ARIN-02,others,0,Mixed/Others Scanner
+167.94.145.97,5,1,1,0.0,0.0,0.0,0.0,1.0,10,-0.0,1,United States,CENSYS-ARIN-02,others,0,Mixed/Others Scanner
+167.94.145.99,3,1,1,0.0,0.0,0.0,1.0,0.0,11,-0.0,1,United States,CENSYS-ARIN-02,others,4,Telnet Botnet
+167.94.146.52,4,2,2,0.0,0.0,0.0,0.75,0.25,11,0.8112781244591328,2,United States,CENSYS-ARIN-02,others,4,Telnet Botnet
+167.94.146.53,3,3,3,0.0,0.0,0.0,0.0,1.0,8,1.584962500721156,3,United States,CENSYS-ARIN-02,others,0,Mixed/Others Scanner
+167.94.146.55,5,1,1,0.0,0.0,0.0,0.0,1.0,1,-0.0,1,United States,CENSYS-ARIN-02,others,0,Mixed/Others Scanner
+167.94.146.58,2,1,1,0.0,1.0,0.0,0.0,0.0,22,-0.0,1,United States,CENSYS-ARIN-02,others,1,SMB Brute-forcer
+167.94.146.62,2,1,1,0.0,1.0,0.0,0.0,0.0,5,-0.0,1,United States,CENSYS-ARIN-02,others,1,SMB Brute-forcer
+168.232.0.134,2,1,2,0.0,0.0,0.0,1.0,0.0,9,1.0,2,Brazil,Junior e Bruno Pecas e Servicos em Informatica ltd,others,4,Telnet Botnet
+168.90.42.248,11,1,2,0.0,0.0,1.0,0.0,0.0,5,3.095795255000934,9,Brazil,level2 telecomunicacoes eireli,others,3,Mixed/Others Scanner
+169.228.66.212,2,1,2,0.0,0.0,1.0,0.0,0.0,5,1.0,2,United States,UCSD,others,2,SSH Brute-forcer
+170.64.153.215,705,1,2,0.0,0.0,1.0,0.0,0.0,4,1.729741056004242,4,Australia,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+170.64.232.83,521,1,1,0.0,0.0,1.0,0.0,0.0,19,0.984357372061642,3,Australia,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+170.64.238.62,235,1,1,0.0,0.0,1.0,0.0,0.0,0,-0.0,1,Australia,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+170.83.211.64,2,1,1,0.0,0.0,0.0,1.0,0.0,13,-0.0,1,Brazil,Monte Alto Net Ltda,others,4,Telnet Botnet
+171.120.202.203,15,1,2,0.0,0.0,0.0,1.0,0.0,14,1.565596230357602,3,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+171.251.18.182,5,2,1,0.0,0.0,0.8,0.2,0.0,6,-0.0,1,Vietnam,Viettel Group,others,2,SSH Brute-forcer
+171.251.18.204,21,1,1,0.0,0.0,1.0,0.0,0.0,13,-0.0,1,Vietnam,Viettel Group,others,2,SSH Brute-forcer
+171.251.19.202,66,2,2,0.0,0.0,0.9545454545454546,0.0454545454545454,0.0,13,1.3110265392050706,4,Vietnam,Viettel Group,others,2,SSH Brute-forcer
+171.251.30.15,20,2,1,0.0,0.0,0.95,0.05,0.0,13,0.9709505944546686,2,Vietnam,Viettel Group,others,2,SSH Brute-forcer
+171.251.30.52,5,2,1,0.0,0.0,0.8,0.2,0.0,22,-0.0,1,Vietnam,Viettel Group,others,2,SSH Brute-forcer
+171.39.221.200,7,1,1,0.0,0.0,0.0,1.0,0.0,1,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+171.44.123.48,3106,1,1,0.0,1.0,0.0,0.0,0.0,19,0.7926531941033277,3,China,Chinanet,Chinanet,1,SMB Brute-forcer
+171.80.129.213,9,1,2,0.0,0.0,0.0,1.0,0.0,10,0.9182958340544896,2,China,Chinanet,Chinanet,4,Telnet Botnet
+172.104.11.34,9,2,3,0.0,0.4444444444444444,0.5555555555555556,0.0,0.0,19,1.5304930567574824,3,United States,Akamai Connected Cloud,others,3,Mixed/Others Scanner
+172.104.11.46,8,2,2,0.0,0.0,0.75,0.0,0.25,6,1.561278124459133,3,United States,Akamai Connected Cloud,others,2,SSH Brute-forcer
+172.104.93.159,3,1,3,0.0,0.0,0.0,1.0,0.0,5,0.9182958340544896,2,Japan,Akamai Connected Cloud,others,4,Telnet Botnet
+172.105.128.12,3,1,1,0.0,0.0,1.0,0.0,0.0,18,-0.0,1,United States,Akamai Connected Cloud,others,2,SSH Brute-forcer
+172.178.115.138,2,1,1,0.0,0.0,0.0,0.0,1.0,19,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,0,Mixed/Others Scanner
+172.184.107.128,8,5,1,0.0,0.0,0.125,0.25,0.625,22,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,0,Mixed/Others Scanner
+172.202.117.217,3,1,1,0.0,1.0,0.0,0.0,0.0,11,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,1,SMB Brute-forcer
+172.234.217.192,2,1,1,0.0,0.0,0.0,0.0,1.0,8,-0.0,1,United States,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+172.235.40.131,9,4,3,0.0,0.0,0.3333333333333333,0.0,0.6666666666666666,0,1.974937501201927,4,United States,Akamai Connected Cloud,others,3,Mixed/Others Scanner
+172.236.127.133,2,1,1,0.0,0.0,0.0,0.0,1.0,18,-0.0,1,United States,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+172.236.228.111,2,1,1,0.0,0.0,1.0,0.0,0.0,7,-0.0,1,United States,Akamai Connected Cloud,others,2,SSH Brute-forcer
+172.236.228.193,4,2,1,0.0,0.0,0.0,0.0,1.0,17,-0.0,1,United States,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+172.236.228.197,6,1,3,0.0,0.0,0.0,0.0,1.0,19,0.9182958340544896,2,United States,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+172.236.228.198,9,3,3,0.0,0.0,0.5555555555555556,0.2222222222222222,0.2222222222222222,0,1.974937501201927,4,United States,Akamai Connected Cloud,others,3,Mixed/Others Scanner
+172.236.228.202,7,3,1,0.0,0.2857142857142857,0.4285714285714285,0.0,0.2857142857142857,12,1.5566567074628228,3,United States,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+172.236.228.208,14,2,4,0.0,0.0,0.8571428571428571,0.0,0.1428571428571428,6,1.877387064296613,4,United States,Akamai Connected Cloud,others,3,Mixed/Others Scanner
+172.236.228.218,7,3,2,0.0,0.2857142857142857,0.4285714285714285,0.0,0.2857142857142857,18,1.5566567074628228,3,United States,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+172.236.228.220,6,1,2,0.0,0.0,1.0,0.0,0.0,12,1.0,2,United States,Akamai Connected Cloud,others,2,SSH Brute-forcer
+172.236.228.222,5,2,1,0.0,0.0,0.6,0.0,0.4,12,0.9709505944546686,2,United States,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+172.236.228.224,7,3,3,0.0,0.0,0.4285714285714285,0.0,0.5714285714285714,18,1.5566567074628228,3,United States,Akamai Connected Cloud,others,3,Mixed/Others Scanner
+172.236.228.227,2,1,1,0.0,0.0,1.0,0.0,0.0,12,-0.0,1,United States,Akamai Connected Cloud,others,2,SSH Brute-forcer
+172.236.228.245,4,2,2,0.0,0.0,0.5,0.0,0.5,17,1.0,2,United States,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+172.236.228.38,2,1,1,0.0,0.0,0.0,0.0,1.0,17,-0.0,1,United States,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+172.236.228.39,4,2,2,0.0,0.5,0.0,0.0,0.5,6,1.0,2,United States,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+173.231.185.164,1404,2,4,0.0106837606837606,0.0,0.9893162393162394,0.0,0.0,22,2.734835654771005,13,United States,SINGLEHOP-LLC,SINGLEHOP-LLC,3,Mixed/Others Scanner
+174.138.45.47,34,1,1,0.0,0.0,0.0,0.0,1.0,0,-0.0,1,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,0,Mixed/Others Scanner
+174.138.73.8,193,1,1,0.0,0.0,1.0,0.0,0.0,20,0.9314972128035196,2,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+174.4.145.19,2,1,1,0.0,0.0,1.0,0.0,0.0,17,1.0,2,Canada,SHAW,others,2,SSH Brute-forcer
+175.10.25.167,3,1,1,0.0,0.0,0.0,1.0,0.0,21,-0.0,1,China,Chinanet,Chinanet,4,Telnet Botnet
+175.107.196.29,2,1,1,0.0,1.0,0.0,0.0,0.0,22,-0.0,1,Pakistan,Cyber Internet Services Pakistan,others,1,SMB Brute-forcer
+175.107.3.24,25,1,1,0.0,0.0,0.0,1.0,0.0,9,-0.0,1,Pakistan,National Telecommunication Corporation HQ,others,4,Telnet Botnet
+175.107.37.138,25,1,1,0.0,0.0,0.0,1.0,0.0,2,-0.0,1,Pakistan,National Telecommunication Corporation HQ,others,4,Telnet Botnet
+175.107.37.83,25,1,1,0.0,0.0,0.0,1.0,0.0,12,-0.0,1,Pakistan,National Telecommunication Corporation HQ,others,4,Telnet Botnet
+175.11.242.164,2,1,1,0.0,0.0,0.0,1.0,0.0,8,-0.0,1,China,Chinanet,Chinanet,4,Telnet Botnet
+175.146.209.63,49,1,1,0.0,0.0,0.0,1.0,0.0,17,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+175.193.206.46,64,1,3,0.0,0.0,0.0,1.0,0.0,13,1.206136625190374,4,South Korea,Korea Telecom,others,4,Telnet Botnet
+175.194.215.217,8,1,2,0.0,0.0,0.0,1.0,0.0,5,1.0,2,South Korea,Korea Telecom,others,4,Telnet Botnet
+175.205.3.180,2,1,2,0.0,0.0,0.0,1.0,0.0,6,1.0,2,South Korea,Korea Telecom,others,4,Telnet Botnet
+175.4.55.185,2,1,1,0.0,0.0,1.0,0.0,0.0,14,-0.0,1,China,Hengyang,others,2,SSH Brute-forcer
+176.118.232.22,2,1,2,0.0,0.0,0.0,1.0,0.0,23,1.0,2,Russia,"Timer, LLC",others,4,Telnet Botnet
+176.118.248.147,5,1,1,0.0,1.0,0.0,0.0,0.0,5,-0.0,1,Russia,"Timer, LLC",others,1,SMB Brute-forcer
+176.215.246.166,4,1,1,0.0,0.0,1.0,0.0,0.0,21,-0.0,1,Russia,JSC ER-Telecom Holding,others,2,SSH Brute-forcer
+176.65.148.10,26,2,3,0.0,0.0,0.8846153846153846,0.1153846153846153,0.0,17,3.638530469124292,14,The Netherlands,Pfcloud UG,others,3,Mixed/Others Scanner
+176.65.148.175,88,1,4,0.0,0.0,0.0,0.0,1.0,14,4.455797812332733,24,The Netherlands,Pfcloud UG,others,3,Mixed/Others Scanner
+176.65.148.193,117,1,4,0.0,0.0,0.0,1.0,0.0,12,4.488668382981361,24,The Netherlands,Pfcloud UG,others,3,Mixed/Others Scanner
+176.65.148.243,2,1,2,0.0,0.0,0.0,1.0,0.0,22,-0.0,1,The Netherlands,Pfcloud UG,others,4,Telnet Botnet
+176.65.148.6,7,2,4,0.0,0.5714285714285714,0.4285714285714285,0.0,0.0,17,2.807354922057604,7,The Netherlands,Pfcloud UG,others,3,Mixed/Others Scanner
+176.65.150.73,3,1,3,0.0,0.0,0.0,0.0,1.0,10,1.584962500721156,3,The Netherlands,Pfcloud UG,others,0,Mixed/Others Scanner
+177.231.7.155,2,1,1,0.0,1.0,0.0,0.0,0.0,22,-0.0,1,Mexico,"Mega Cable, S.A. de C.V.",others,1,SMB Brute-forcer
+177.86.70.233,2,1,1,0.0,0.0,0.0,1.0,0.0,19,1.0,2,Brazil,ATK Telecomunicacoes Ltda.,others,4,Telnet Botnet
+177.87.209.139,2,1,1,0.0,0.0,0.0,1.0,0.0,5,1.0,2,Brazil,Isaque Oliveira Comercial LTDA,others,4,Telnet Botnet
+178.128.155.21,31,1,1,0.0,0.0,0.0,0.0,1.0,15,-0.0,1,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,0,Mixed/Others Scanner
+178.128.155.23,31,1,1,0.0,0.0,0.0,0.0,1.0,16,-0.0,1,United States,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,0,Mixed/Others Scanner
+178.130.47.130,3,1,3,0.0,0.0,0.0,0.0,1.0,12,1.584962500721156,3,United States,Global Connectivity Solutions Llp,others,0,Mixed/Others Scanner
+178.141.244.54,25,1,1,0.0,0.0,0.0,1.0,0.0,21,-0.0,1,Russia,MTS PJSC,others,4,Telnet Botnet
+178.214.247.185,44,1,1,0.0,1.0,0.0,0.0,0.0,20,-0.0,1,Russia,JSC Ufanet,others,1,SMB Brute-forcer
+178.74.192.161,2,1,1,0.0,0.0,0.0,1.0,0.0,4,-0.0,1,Ukraine,Everest Tv And Radio Company LLC,others,4,Telnet Botnet
+179.127.252.234,2,1,2,0.0,1.0,0.0,0.0,0.0,18,1.0,2,Brazil,VERO S.A,others,1,SMB Brute-forcer
+18.219.56.153,11,11,1,0.0,0.0909090909090909,0.0909090909090909,0.0909090909090909,0.7272727272727273,22,-0.0,1,United States,AMAZON-02,others,0,Mixed/Others Scanner
+18.220.154.78,7,2,3,0.0,0.0,0.2857142857142857,0.0,0.7142857142857143,10,1.950212064914747,4,United States,AMAZON-02,others,3,Mixed/Others Scanner
+180.76.166.65,5,1,1,0.0,0.0,1.0,0.0,0.0,1,-0.0,1,China,"Beijing Baidu Netcom Science and Technology Co., Ltd.",others,2,SSH Brute-forcer
+182.122.233.230,8,1,1,0.0,0.0,0.0,1.0,0.0,0,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+182.127.30.117,25,1,1,0.0,0.0,0.0,1.0,0.0,3,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+182.215.66.232,3,1,2,0.0,0.0,1.0,0.0,0.0,13,1.584962500721156,3,South Korea,LG POWERCOMM,others,2,SSH Brute-forcer
+182.224.231.102,3,1,1,0.0,0.0,1.0,0.0,0.0,20,-0.0,1,South Korea,LG POWERCOMM,others,2,SSH Brute-forcer
+182.252.38.24,9,1,1,0.0,0.0,0.0,1.0,0.0,7,2.725480556997868,7,South Korea,LG DACOM Corporation,others,4,Telnet Botnet
+182.40.102.229,3,1,1,0.0,0.0,1.0,0.0,0.0,8,-0.0,1,China,"Qingdao, Shandong Province, P.R.China.",others,2,SSH Brute-forcer
+182.43.72.153,11,1,1,0.0,0.0,0.0,1.0,0.0,22,-0.0,1,China,Cloud Computing Corporation,others,4,Telnet Botnet
+182.44.10.127,2,1,1,0.0,1.0,0.0,0.0,0.0,21,-0.0,1,China,Cloud Computing Corporation,others,1,SMB Brute-forcer
+182.92.202.149,4,1,1,0.0,0.0,0.0,0.0,1.0,6,-0.0,1,China,"Hangzhou Alibaba Advertising Co.,Ltd.",others,0,Mixed/Others Scanner
+183.131.85.142,2,1,1,0.0,1.0,0.0,0.0,0.0,9,-0.0,1,China,CT-HangZhou-IDC,others,1,SMB Brute-forcer
+183.160.13.245,13,1,1,0.0,0.0,0.0,0.0,1.0,7,-0.0,1,China,Chinanet,Chinanet,0,Mixed/Others Scanner
+183.166.247.112,356,1,1,0.0,1.0,0.0,0.0,0.0,4,-0.0,1,China,Chinanet,Chinanet,1,SMB Brute-forcer
+183.199.143.151,615,1,1,0.0,1.0,0.0,0.0,0.0,12,0.3084347044045814,2,China,Hebei Mobile Communication Company Limited,others,1,SMB Brute-forcer
+183.224.237.233,5,1,1,0.0,0.0,1.0,0.0,0.0,12,-0.0,1,China,"China Mobile Communications Group Co., Ltd.",others,2,SSH Brute-forcer
+183.99.240.62,4,1,1,0.0,0.0,0.0,1.0,0.0,14,-0.0,1,South Korea,Korea Telecom,others,4,Telnet Botnet
+184.105.139.68,2,1,2,0.0,0.0,0.0,0.0,1.0,20,1.0,2,United States,HURRICANE,others,0,Mixed/Others Scanner
+184.105.139.70,2,2,2,0.0,0.0,0.0,0.5,0.5,9,1.0,2,United States,HURRICANE,others,0,Mixed/Others Scanner
+184.170.171.59,2,1,2,0.0,0.0,0.0,1.0,0.0,10,1.0,2,United States,AS-CMN,others,4,Telnet Botnet
+184.70.159.86,2,1,1,0.0,1.0,0.0,0.0,0.0,20,-0.0,1,Canada,SHAW,others,1,SMB Brute-forcer
+185.126.200.177,2,1,1,0.0,0.0,1.0,0.0,0.0,16,-0.0,1,Iran,Toesegaran Shabakeh Arseh Novin Ltd,others,2,SSH Brute-forcer
+185.156.73.235,4,1,4,0.0,0.0,1.0,0.0,0.0,22,1.5,3,South Africa,Telkom Internet LTD,others,3,Mixed/Others Scanner
+185.196.220.81,135,1,4,0.0,0.0,0.0,1.0,0.0,15,4.516140598678503,24,United States,ColocaTel Inc.,others,3,Mixed/Others Scanner
+185.218.84.178,82,1,4,0.0,0.0,0.0,0.0,1.0,23,3.7979160249503128,15,United States,Netiface Limited,others,3,Mixed/Others Scanner
+185.226.196.24,2,1,1,0.0,0.0,0.0,0.0,1.0,11,-0.0,1,Portugal,ZEN-ECN,others,0,Mixed/Others Scanner
+185.242.226.21,36,1,1,0.0,1.0,0.0,0.0,0.0,23,-0.0,1,United States,IP Volume inc,others,1,SMB Brute-forcer
+185.243.5.34,2,1,2,1.0,0.0,0.0,0.0,0.0,8,-0.0,1,Hong Kong,RELIABLESITE,RELIABLESITE,5,SIP Scanner
+185.243.5.70,7403,1,4,1.0,0.0,0.0,0.0,0.0,0,4.450945644412888,24,Hong Kong,RELIABLESITE,RELIABLESITE,5,SIP Scanner
+185.243.5.73,58,1,1,1.0,0.0,0.0,0.0,0.0,8,-0.0,1,Hong Kong,RELIABLESITE,RELIABLESITE,5,SIP Scanner
+185.247.137.101,2,1,1,0.0,0.0,0.0,0.0,1.0,23,-0.0,1,United Kingdom,Driftnet Ltd,others,0,Mixed/Others Scanner
+185.247.137.23,2,1,1,0.0,0.0,1.0,0.0,0.0,12,-0.0,1,United Kingdom,Driftnet Ltd,others,2,SSH Brute-forcer
+185.247.137.37,2,1,1,0.0,0.0,1.0,0.0,0.0,17,-0.0,1,United Kingdom,Driftnet Ltd,others,2,SSH Brute-forcer
+185.247.137.71,2,1,1,0.0,0.0,1.0,0.0,0.0,9,-0.0,1,United Kingdom,Driftnet Ltd,others,2,SSH Brute-forcer
+185.247.137.98,2,1,1,0.0,0.0,1.0,0.0,0.0,6,-0.0,1,United Kingdom,Driftnet Ltd,others,2,SSH Brute-forcer
+185.93.89.118,7,1,2,0.0,0.0,1.0,0.0,0.0,9,1.448815635725185,3,Iran,Limited Network LTD,others,2,SSH Brute-forcer
+186.149.199.90,2,1,1,0.0,1.0,0.0,0.0,0.0,8,-0.0,1,Dominican Republic,ALTICE DOMINICANA S.A.,others,1,SMB Brute-forcer
+186.182.105.35,2,1,1,0.0,1.0,0.0,0.0,0.0,21,-0.0,1,Paraguay,Techtel LMDS Comunicaciones Interactivas S.A.,others,1,SMB Brute-forcer
+186.200.160.114,4,1,1,0.0,1.0,0.0,0.0,0.0,3,-0.0,1,Brazil,TELEFONICA BRASIL S.A,others,1,SMB Brute-forcer
+186.4.216.42,2,1,1,0.0,1.0,0.0,0.0,0.0,12,-0.0,1,Ecuador,Telconet S.A,others,1,SMB Brute-forcer
+186.6.126.24,2,1,1,0.0,1.0,0.0,0.0,0.0,6,-0.0,1,Dominican Republic,Compania Dominicana de Telefonos S. A.,others,1,SMB Brute-forcer
+186.67.205.122,3,1,1,0.0,1.0,0.0,0.0,0.0,15,-0.0,1,Chile,ENTEL CHILE S.A.,others,1,SMB Brute-forcer
+186.88.27.145,2,1,1,0.0,0.0,0.0,1.0,0.0,0,1.0,2,Venezuela,"CANTV Servicios, Venezuela",others,4,Telnet Botnet
+187.174.164.99,2,1,1,0.0,1.0,0.0,0.0,0.0,13,-0.0,1,Mexico,UNINET,others,1,SMB Brute-forcer
+187.194.216.128,2,1,1,0.0,1.0,0.0,0.0,0.0,6,-0.0,1,Mexico,UNINET,others,1,SMB Brute-forcer
+187.249.89.130,2,1,1,0.0,1.0,0.0,0.0,0.0,20,-0.0,1,Mexico,TRANSTELCO-INC,others,1,SMB Brute-forcer
+188.12.65.102,4,1,2,0.0,1.0,0.0,0.0,0.0,11,2.0,4,Italy,TIM,others,1,SMB Brute-forcer
+188.253.126.200,3,1,1,0.0,0.0,1.0,0.0,0.0,22,-0.0,1,Hong Kong,Akari Networks,others,2,SSH Brute-forcer
+188.85.163.17,3,1,1,0.0,1.0,0.0,0.0,0.0,4,-0.0,1,Spain,Vodafone Spain,others,1,SMB Brute-forcer
+189.162.19.56,2,1,1,0.0,1.0,0.0,0.0,0.0,8,-0.0,1,Mexico,UNINET,others,1,SMB Brute-forcer
+189.162.221.88,6,1,2,0.0,1.0,0.0,0.0,0.0,7,1.584962500721156,3,Mexico,UNINET,others,1,SMB Brute-forcer
+189.179.230.87,2,1,1,0.0,1.0,0.0,0.0,0.0,8,-0.0,1,Mexico,UNINET,others,1,SMB Brute-forcer
+189.235.246.33,2,1,1,0.0,1.0,0.0,0.0,0.0,15,-0.0,1,Mexico,UNINET,others,1,SMB Brute-forcer
+190.200.52.123,2,1,2,0.0,0.0,0.0,1.0,0.0,14,1.0,2,Venezuela,"CANTV Servicios, Venezuela",others,4,Telnet Botnet
+190.203.108.191,2,1,2,0.0,0.0,0.0,1.0,0.0,3,1.0,2,Venezuela,"CANTV Servicios, Venezuela",others,4,Telnet Botnet
+190.57.171.200,2,1,1,0.0,1.0,0.0,0.0,0.0,0,-0.0,1,Ecuador,PUNTONET S.A.,others,1,SMB Brute-forcer
+190.73.144.134,2,1,2,0.0,0.0,0.0,1.0,0.0,5,1.0,2,Venezuela,"CANTV Servicios, Venezuela",others,4,Telnet Botnet
+191.96.11.26,28,1,3,1.0,0.0,0.0,0.0,0.0,10,1.7320872216997276,4,The Netherlands,Wojciech Czapkowicz,others,5,SIP Scanner
+192.155.90.220,5,2,2,0.0,0.0,0.6,0.0,0.4,12,0.9709505944546686,2,United States,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+192.42.116.214,2,2,1,0.0,0.0,0.5,0.5,0.0,22,-0.0,1,The Netherlands,SURF B.V.,others,2,SSH Brute-forcer
+192.42.116.216,2,2,1,0.0,0.0,0.5,0.5,0.0,21,-0.0,1,The Netherlands,SURF B.V.,others,2,SSH Brute-forcer
+193.24.123.85,3,1,1,0.0,0.0,0.0,0.0,1.0,14,-0.0,1,Russia,Prospero Ooo,others,0,Mixed/Others Scanner
+193.32.126.232,2,1,2,0.0,0.0,0.0,0.0,1.0,5,1.0,2,France,31173 Services AB,others,0,Mixed/Others Scanner
+193.32.162.141,3,1,2,0.0,0.0,1.0,0.0,0.0,20,0.9182958340544896,2,Romania,Unmanaged Ltd,others,2,SSH Brute-forcer
+193.32.162.143,39,1,3,0.0,0.0,1.0,0.0,0.0,20,2.4400717852538363,6,Romania,Unmanaged Ltd,others,3,Mixed/Others Scanner
+193.32.162.145,39,1,4,0.0,0.0,1.0,0.0,0.0,15,2.6528819496212632,8,Romania,Unmanaged Ltd,others,3,Mixed/Others Scanner
+193.32.162.146,37,1,3,0.0,0.0,1.0,0.0,0.0,10,2.79147979853359,10,Romania,Unmanaged Ltd,others,3,Mixed/Others Scanner
+193.32.162.151,9,1,2,0.0,0.0,1.0,0.0,0.0,17,1.8910611120726528,4,Romania,Unmanaged Ltd,others,2,SSH Brute-forcer
+193.32.162.157,10,1,3,0.0,0.0,1.0,0.0,0.0,20,1.4854752972273344,3,Romania,Unmanaged Ltd,others,2,SSH Brute-forcer
+193.32.162.210,5,1,1,0.0,0.0,1.0,0.0,0.0,21,1.3709505944546687,3,Romania,Unmanaged Ltd,others,2,SSH Brute-forcer
+193.46.255.235,11,1,4,1.0,0.0,0.0,0.0,0.0,7,2.5503407095463886,7,Romania,Unmanaged Ltd,others,5,SIP Scanner
+194.0.234.149,2,1,2,0.0,0.0,1.0,0.0,0.0,12,1.0,2,Iran,Skynet Network Ltd,others,2,SSH Brute-forcer
+194.0.234.20,3,1,2,0.0,0.0,1.0,0.0,0.0,13,1.584962500721156,3,Iran,Skynet Network Ltd,others,2,SSH Brute-forcer
+194.127.167.111,2,1,1,0.0,0.0,0.0,0.0,1.0,11,-0.0,1,Estonia,Owl Limited,others,0,Mixed/Others Scanner
+194.50.16.131,1754,1,1,1.0,0.0,0.0,0.0,0.0,8,0.3112534007710911,5,The Netherlands,Alsycon B.V.,Alsycon B.V.,5,SIP Scanner
+194.50.16.151,29,1,3,0.0,0.0,0.0,1.0,0.0,14,2.4802412239824108,7,The Netherlands,Alsycon B.V.,Alsycon B.V.,3,Mixed/Others Scanner
+195.184.76.210,2,1,1,0.0,0.0,0.0,0.0,1.0,12,-0.0,1,United States,ONYPHE SAS,others,0,Mixed/Others Scanner
+195.200.164.133,2,1,1,0.0,0.0,1.0,0.0,0.0,13,-0.0,1,France,Celeste SAS,others,2,SSH Brute-forcer
+195.3.221.137,3,1,3,0.0,0.0,0.0,0.0,1.0,18,-0.0,1,Poland,MEVSPACE sp. z o.o.,others,0,Mixed/Others Scanner
+195.88.120.62,2,1,1,0.0,0.0,1.0,0.0,0.0,4,-0.0,1,Russia,Parus-Telecom Ltd.,others,2,SSH Brute-forcer
+196.219.0.170,5,1,1,0.0,1.0,0.0,0.0,0.0,23,-0.0,1,Egypt,TE Data,others,1,SMB Brute-forcer
+196.251.114.27,2,1,2,0.0,0.0,0.0,0.0,1.0,18,-0.0,1,The Netherlands,NYBULA,others,0,Mixed/Others Scanner
+196.251.114.29,12,1,4,0.0,0.0,1.0,0.0,0.0,12,3.084962500721156,9,The Netherlands,NYBULA,others,3,Mixed/Others Scanner
+196.251.114.64,7,1,3,0.0,0.0,0.0,0.0,1.0,18,2.5216406363433186,6,The Netherlands,NYBULA,others,3,Mixed/Others Scanner
+196.251.115.18,2,1,2,0.0,0.0,0.0,0.0,1.0,12,1.0,2,The Netherlands,NYBULA,others,0,Mixed/Others Scanner
+196.251.115.26,2,1,2,0.0,0.0,0.0,0.0,1.0,10,1.0,2,The Netherlands,NYBULA,others,0,Mixed/Others Scanner
+196.251.115.92,2,1,1,0.0,0.0,0.0,0.0,1.0,20,1.0,2,The Netherlands,NYBULA,others,0,Mixed/Others Scanner
+196.251.118.79,3,1,1,0.0,0.0,0.0,0.0,1.0,3,1.584962500721156,3,The Netherlands,NYBULA,others,0,Mixed/Others Scanner
+196.251.118.80,6,1,2,0.0,0.0,0.0,0.0,1.0,0,2.2516291673878226,5,The Netherlands,NYBULA,others,0,Mixed/Others Scanner
+196.251.118.82,8,1,3,0.0,0.0,0.0,0.0,1.0,15,3.0,8,The Netherlands,NYBULA,others,3,Mixed/Others Scanner
+196.251.118.87,4,1,3,0.0,0.0,0.0,0.0,1.0,12,2.0,4,The Netherlands,NYBULA,others,3,Mixed/Others Scanner
+196.251.118.90,3,1,3,0.0,0.0,0.0,0.0,1.0,7,1.584962500721156,3,The Netherlands,NYBULA,others,0,Mixed/Others Scanner
+196.251.118.91,6,1,3,0.0,0.0,0.0,0.0,1.0,15,2.584962500721156,6,The Netherlands,NYBULA,others,3,Mixed/Others Scanner
+196.251.118.92,4,1,3,0.0,0.0,0.0,0.0,1.0,11,2.0,4,The Netherlands,NYBULA,others,3,Mixed/Others Scanner
+196.251.70.219,5,1,3,0.0,0.0,1.0,0.0,0.0,6,2.321928094887362,5,Seychelles,CHEAPY-HOST,others,3,Mixed/Others Scanner
+196.251.70.48,3,1,2,0.0,0.0,0.0,0.0,1.0,2,0.9182958340544896,2,Seychelles,CHEAPY-HOST,others,0,Mixed/Others Scanner
+196.251.72.115,95,1,1,0.0,0.0,1.0,0.0,0.0,5,4.489246736261254,23,Seychelles,CHEAPY-HOST,others,3,Mixed/Others Scanner
+196.251.80.92,13,1,1,0.0,0.0,1.0,0.0,0.0,3,0.7793498372920851,2,Seychelles,CHEAPY-HOST,others,2,SSH Brute-forcer
+196.251.84.225,571,1,1,0.0,0.0,1.0,0.0,0.0,23,2.422894748288696,6,The Netherlands,CHEAPY-HOST,others,2,SSH Brute-forcer
+196.251.85.11,2,1,2,0.0,0.0,0.0,0.0,1.0,11,1.0,2,The Netherlands,CHEAPY-HOST,others,0,Mixed/Others Scanner
+196.251.85.21,7,1,4,0.0,0.0,0.0,1.0,0.0,23,2.235926350629033,5,The Netherlands,CHEAPY-HOST,others,3,Mixed/Others Scanner
+196.251.88.103,235,1,1,0.0,0.0,1.0,0.0,0.0,7,0.5509844433017146,2,The Netherlands,CHEAPY-HOST,others,2,SSH Brute-forcer
+196.251.90.120,6,2,1,0.0,0.0,0.8333333333333334,0.1666666666666666,0.0,0,-0.0,1,The Netherlands,CHEAPY-HOST,others,2,SSH Brute-forcer
+196.251.90.139,3,1,2,0.0,0.0,0.0,0.0,1.0,6,1.584962500721156,3,The Netherlands,CHEAPY-HOST,others,0,Mixed/Others Scanner
+196.251.90.172,2,1,2,0.0,0.0,0.0,0.0,1.0,21,1.0,2,The Netherlands,CHEAPY-HOST,others,0,Mixed/Others Scanner
+196.251.91.26,2,1,2,0.0,0.0,0.0,0.0,1.0,2,1.0,2,The Netherlands,CHEAPY-HOST,others,0,Mixed/Others Scanner
+196.251.91.45,3,1,3,0.0,0.0,0.0,0.0,1.0,1,0.9182958340544896,2,The Netherlands,CHEAPY-HOST,others,0,Mixed/Others Scanner
+196.251.91.72,5,1,3,0.0,0.0,0.0,0.0,1.0,14,2.321928094887362,5,The Netherlands,CHEAPY-HOST,others,3,Mixed/Others Scanner
+196.251.91.73,6,1,4,0.0,0.0,0.0,0.0,1.0,20,2.2516291673878226,5,The Netherlands,CHEAPY-HOST,others,3,Mixed/Others Scanner
+196.251.91.74,7,1,4,0.0,0.0,0.0,0.0,1.0,14,2.807354922057604,7,The Netherlands,CHEAPY-HOST,others,3,Mixed/Others Scanner
+196.251.91.75,4,1,3,0.0,0.0,0.0,0.0,1.0,11,2.0,4,The Netherlands,CHEAPY-HOST,others,3,Mixed/Others Scanner
+196.251.91.76,4,1,2,0.0,0.0,0.0,0.0,1.0,19,2.0,4,The Netherlands,CHEAPY-HOST,others,0,Mixed/Others Scanner
+196.251.91.78,2,1,2,0.0,0.0,0.0,0.0,1.0,14,1.0,2,The Netherlands,CHEAPY-HOST,others,0,Mixed/Others Scanner
+196.251.91.79,2,1,1,0.0,0.0,0.0,0.0,1.0,1,1.0,2,The Netherlands,CHEAPY-HOST,others,0,Mixed/Others Scanner
+196.251.91.83,6,1,3,0.0,0.0,0.0,0.0,1.0,17,2.584962500721156,6,The Netherlands,CHEAPY-HOST,others,3,Mixed/Others Scanner
+196.251.91.84,6,1,4,0.0,0.0,0.0,0.0,1.0,18,2.2516291673878226,5,The Netherlands,CHEAPY-HOST,others,3,Mixed/Others Scanner
+196.251.91.85,5,1,3,0.0,0.0,0.0,0.0,1.0,11,1.521928094887362,3,The Netherlands,CHEAPY-HOST,others,0,Mixed/Others Scanner
+196.251.91.86,4,1,2,0.0,0.0,0.0,0.0,1.0,15,2.0,4,The Netherlands,CHEAPY-HOST,others,0,Mixed/Others Scanner
+196.251.91.87,3,1,3,0.0,0.0,0.0,0.0,1.0,4,1.584962500721156,3,The Netherlands,CHEAPY-HOST,others,0,Mixed/Others Scanner
+198.23.238.154,2368,1,1,1.0,0.0,0.0,0.0,0.0,23,3.921173391258988,17,United States,AS-COLOCROSSING,AS-COLOCROSSING,5,SIP Scanner
+198.235.24.116,2,2,2,0.0,0.0,0.0,0.0,1.0,3,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.235.24.12,3,1,1,0.0,1.0,0.0,0.0,0.0,3,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+198.235.24.121,2,2,1,0.0,0.0,0.5,0.0,0.5,3,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.235.24.132,2,2,2,0.0,0.0,0.0,0.0,1.0,1,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.235.24.133,2,2,1,0.5,0.0,0.0,0.0,0.5,15,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.235.24.137,2,2,1,0.0,0.0,0.0,0.0,1.0,6,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.235.24.138,2,2,2,0.0,0.0,0.0,0.0,1.0,23,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.235.24.14,2,2,1,0.0,0.0,0.0,0.0,1.0,20,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.235.24.156,2,2,2,0.0,0.0,0.5,0.0,0.5,3,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.235.24.19,2,2,2,0.5,0.0,0.0,0.0,0.5,0,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.235.24.195,3,1,1,0.0,1.0,0.0,0.0,0.0,8,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+198.235.24.235,3,1,1,0.0,1.0,0.0,0.0,0.0,0,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+198.235.24.248,5,1,2,0.0,0.0,0.0,0.0,1.0,13,0.7219280948873623,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.235.24.31,2,2,2,0.0,0.0,0.5,0.0,0.5,6,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.235.24.33,2,2,1,0.5,0.0,0.0,0.0,0.5,7,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.235.24.50,4,1,1,0.0,0.0,0.0,0.0,1.0,19,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.235.24.69,3,3,1,0.0,0.0,0.0,0.0,1.0,15,1.584962500721156,3,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.235.24.94,2,2,1,0.0,0.0,0.5,0.0,0.5,10,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.235.24.97,4,1,1,0.0,0.0,0.0,0.0,1.0,2,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+198.58.109.143,2,1,1,0.0,0.0,0.0,0.0,1.0,1,-0.0,1,United States,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+198.98.49.121,2,1,2,1.0,0.0,0.0,0.0,0.0,20,1.0,2,United States,PONYNET,others,5,SIP Scanner
+198.98.59.180,148,1,1,0.0,0.0,0.0,1.0,0.0,3,-0.0,1,United States,PONYNET,others,4,Telnet Botnet
+199.45.154.144,5,1,1,0.0,0.0,0.0,0.0,1.0,18,-0.0,1,United States,CENSYS-ARIN-03,others,0,Mixed/Others Scanner
+199.45.154.153,2,1,1,0.0,1.0,0.0,0.0,0.0,11,-0.0,1,United States,CENSYS-ARIN-03,others,1,SMB Brute-forcer
+199.45.155.108,3,1,1,0.0,0.0,0.0,1.0,0.0,1,-0.0,1,United States,CENSYS-ARIN-03,others,4,Telnet Botnet
+199.45.155.111,5,1,1,0.0,0.0,0.0,0.0,1.0,22,-0.0,1,United States,CENSYS-ARIN-03,others,0,Mixed/Others Scanner
+199.45.155.98,2,1,1,0.0,1.0,0.0,0.0,0.0,17,-0.0,1,United States,CENSYS-ARIN-03,others,1,SMB Brute-forcer
+199.45.155.99,2,2,2,0.0,0.0,0.0,0.0,1.0,9,1.0,2,United States,CENSYS-ARIN-03,others,0,Mixed/Others Scanner
+2.63.251.31,5,1,1,0.0,1.0,0.0,0.0,0.0,9,-0.0,1,Russia,Rostelecom,others,1,SMB Brute-forcer
+20.118.217.73,2,1,1,0.0,0.0,0.0,0.0,1.0,19,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,0,Mixed/Others Scanner
+20.118.32.47,2,2,2,0.0,0.0,0.0,0.0,1.0,23,1.0,2,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,0,Mixed/Others Scanner
+20.163.59.190,2,1,1,0.0,0.0,0.0,0.0,1.0,18,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,0,Mixed/Others Scanner
+20.169.49.41,2,1,1,0.0,0.0,1.0,0.0,0.0,11,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,2,SSH Brute-forcer
+20.171.25.42,4,2,2,0.0,0.75,0.0,0.0,0.25,13,0.8112781244591328,2,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,1,SMB Brute-forcer
+20.171.28.177,2,1,1,0.0,0.0,1.0,0.0,0.0,14,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,2,SSH Brute-forcer
+20.175.98.249,9,6,1,0.0,0.0,0.1111111111111111,0.2222222222222222,0.6666666666666666,23,-0.0,1,Canada,MICROSOFT-CORP-MSN-AS-BLOCK,others,0,Mixed/Others Scanner
+20.228.96.188,7,5,1,0.0,0.0,0.1428571428571428,0.2857142857142857,0.5714285714285714,22,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,0,Mixed/Others Scanner
+20.29.19.243,2,1,2,0.0,0.0,1.0,0.0,0.0,7,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,2,SSH Brute-forcer
+20.42.92.153,4,2,2,0.0,0.75,0.0,0.0,0.25,14,0.8112781244591328,2,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,1,SMB Brute-forcer
+20.65.192.33,3,1,1,0.0,1.0,0.0,0.0,0.0,14,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,1,SMB Brute-forcer
+20.65.193.113,2,1,2,0.0,0.0,0.0,0.0,1.0,15,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,0,Mixed/Others Scanner
+20.65.193.199,3,1,1,0.0,1.0,0.0,0.0,0.0,14,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,1,SMB Brute-forcer
+20.65.195.97,2,1,1,0.0,0.0,1.0,0.0,0.0,15,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,2,SSH Brute-forcer
+20.80.83.115,3,1,1,0.0,1.0,0.0,0.0,0.0,10,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,1,SMB Brute-forcer
+200.166.5.18,2,1,1,0.0,1.0,0.0,0.0,0.0,23,-0.0,1,Brazil,CLARO S.A.,others,1,SMB Brute-forcer
+200.72.182.229,2,1,2,0.0,0.0,0.0,1.0,0.0,4,1.0,2,Chile,ENTEL CHILE S.A.,others,4,Telnet Botnet
+202.137.221.151,2,1,1,0.0,0.0,0.0,1.0,0.0,6,-0.0,1,India,Netsat Communications Private Limited,others,4,Telnet Botnet
+202.142.150.10,11057,1,1,0.0,1.0,0.0,0.0,0.0,23,1.6329150521956588,5,Pakistan,GERRYS INFORMATION TECHNOLOGY PVT LTD.,GERRYS INFORMATION TECHNOLOGY PVT LTD.,1,SMB Brute-forcer
+202.142.169.162,2,1,1,0.0,1.0,0.0,0.0,0.0,21,-0.0,1,Pakistan,Multinet Pakistan Pvt. Ltd.,others,1,SMB Brute-forcer
+202.181.127.243,2,1,1,0.0,0.0,1.0,0.0,0.0,9,-0.0,1,China,CHINANET SiChuan Telecom Internet Data Center,others,2,SSH Brute-forcer
+203.114.65.39,4,1,1,0.0,1.0,0.0,0.0,0.0,3,-0.0,1,Philippines,W NETWORK Inc,others,1,SMB Brute-forcer
+203.196.8.245,6,1,1,0.0,0.0,1.0,0.0,0.0,14,-0.0,1,China,CTGNet,others,2,SSH Brute-forcer
+203.236.109.13,2,1,1,0.0,0.0,0.0,1.0,0.0,13,-0.0,1,South Korea,Korea Telecom,others,4,Telnet Botnet
+203.57.28.192,3,1,1,0.0,0.0,1.0,0.0,0.0,7,-0.0,1,China,Cloud Computing Corporation,others,2,SSH Brute-forcer
+203.69.37.212,8,1,1,0.0,0.0,1.0,0.0,0.0,20,0.954434002924965,2,Taiwan,Data Communication Business Group,others,2,SSH Brute-forcer
+203.75.26.190,5,1,1,0.0,1.0,0.0,0.0,0.0,8,-0.0,1,Taiwan,Data Communication Business Group,others,1,SMB Brute-forcer
+203.98.121.76,3,1,1,0.0,0.0,0.0,1.0,0.0,1,0.9182958340544896,2,India,Netsat Communications Private Limited,others,4,Telnet Botnet
+204.188.197.91,2,1,1,0.0,0.0,1.0,0.0,0.0,7,1.0,2,United States,SHARKTECH,others,2,SSH Brute-forcer
+204.76.203.212,45,1,4,0.0,0.0,0.0,0.0,1.0,16,3.5916358740112986,14,The Netherlands,Pfcloud UG,others,3,Mixed/Others Scanner
+205.210.31.10,3,3,3,0.3333333333333333,0.0,0.0,0.0,0.6666666666666666,20,1.584962500721156,3,United States,GOOGLE-CLOUD-PLATFORM,others,3,Mixed/Others Scanner
+205.210.31.102,3,1,1,0.0,1.0,0.0,0.0,0.0,18,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+205.210.31.128,2,2,2,0.0,0.0,0.0,0.0,1.0,20,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.13,5,3,3,0.0,0.6,0.0,0.0,0.4,19,1.3709505944546687,3,United States,GOOGLE-CLOUD-PLATFORM,others,3,Mixed/Others Scanner
+205.210.31.134,2,2,1,0.0,0.0,0.0,0.5,0.5,7,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.139,2,2,2,0.0,0.0,0.5,0.0,0.5,3,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.145,2,2,2,0.0,0.0,0.0,0.0,1.0,0,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.147,4,4,2,0.25,0.0,0.0,0.0,0.75,9,2.0,4,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.153,2,2,2,0.0,0.0,0.0,0.5,0.5,15,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.154,2,2,2,0.5,0.0,0.0,0.0,0.5,9,1.0,2,Brazil,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.16,3,1,1,0.0,1.0,0.0,0.0,0.0,5,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+205.210.31.161,3,1,1,0.0,1.0,0.0,0.0,0.0,6,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+205.210.31.17,3,1,1,0.0,1.0,0.0,0.0,0.0,23,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+205.210.31.18,3,3,3,0.0,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,18,1.584962500721156,3,United States,GOOGLE-CLOUD-PLATFORM,others,3,Mixed/Others Scanner
+205.210.31.195,3,1,1,0.0,1.0,0.0,0.0,0.0,20,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+205.210.31.2,2,2,2,0.0,0.0,0.0,0.0,1.0,2,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.20,2,2,2,0.0,0.0,0.5,0.5,0.0,19,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,2,SSH Brute-forcer
+205.210.31.23,3,3,2,0.0,0.0,0.0,0.3333333333333333,0.6666666666666666,5,1.584962500721156,3,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.245,3,2,2,0.0,0.0,0.6666666666666666,0.0,0.3333333333333333,23,1.584962500721156,3,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.26,2,2,1,0.0,0.0,0.5,0.0,0.5,21,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.30,2,2,2,0.0,0.0,0.0,0.0,1.0,0,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.32,2,2,2,0.5,0.0,0.0,0.0,0.5,9,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.34,2,2,1,0.0,0.0,0.0,0.0,1.0,10,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.35,4,2,2,0.0,0.75,0.0,0.0,0.25,8,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+205.210.31.38,3,1,1,0.0,1.0,0.0,0.0,0.0,20,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+205.210.31.6,3,3,2,0.0,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,10,1.584962500721156,3,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.72,2,2,2,0.0,0.0,0.0,0.0,1.0,3,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+205.210.31.8,2,2,2,0.0,0.0,0.0,0.0,1.0,8,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+206.168.34.121,2,1,1,0.0,1.0,0.0,0.0,0.0,19,-0.0,1,United States,CENSYS-ARIN-01,others,1,SMB Brute-forcer
+206.168.34.127,2,1,1,0.0,1.0,0.0,0.0,0.0,10,-0.0,1,United States,CENSYS-ARIN-01,others,1,SMB Brute-forcer
+206.168.34.193,2,1,2,0.0,0.0,0.0,0.0,1.0,9,1.0,2,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+206.168.34.197,2,2,1,0.0,0.0,0.0,0.0,1.0,8,1.0,2,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+206.168.34.198,4,4,3,0.0,0.0,0.0,0.0,1.0,15,2.0,4,United States,CENSYS-ARIN-01,others,3,Mixed/Others Scanner
+206.168.34.199,6,4,3,0.0,0.3333333333333333,0.0,0.0,0.6666666666666666,11,2.2516291673878226,5,United States,CENSYS-ARIN-01,others,3,Mixed/Others Scanner
+206.168.34.200,3,3,2,0.0,0.0,0.0,0.0,1.0,7,1.584962500721156,3,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+206.168.34.201,4,2,1,0.0,0.0,0.0,0.0,1.0,12,0.8112781244591328,2,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+206.168.34.202,2,2,2,0.0,0.0,0.0,0.0,1.0,14,1.0,2,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+206.168.34.204,2,2,2,0.0,0.0,0.5,0.0,0.5,8,1.0,2,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+206.168.34.206,6,4,3,0.0,0.0,0.0,0.5,0.5,7,1.7924812503605778,4,United States,CENSYS-ARIN-01,others,3,Mixed/Others Scanner
+206.168.34.208,3,3,2,0.0,0.0,0.3333333333333333,0.0,0.6666666666666666,13,1.584962500721156,3,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+206.168.34.210,2,2,2,0.0,0.0,0.0,0.0,1.0,0,1.0,2,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+206.168.34.211,4,1,1,0.0,1.0,0.0,0.0,0.0,6,1.0,2,United States,CENSYS-ARIN-01,others,1,SMB Brute-forcer
+206.168.34.216,2,2,1,0.0,0.0,0.5,0.0,0.5,13,1.0,2,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+206.168.34.222,13,3,3,0.0,0.0,0.0,0.2307692307692307,0.7692307692307693,2,1.8262452584026088,4,United States,CENSYS-ARIN-01,others,3,Mixed/Others Scanner
+206.168.34.223,3,2,2,0.0,0.6666666666666666,0.3333333333333333,0.0,0.0,11,0.9182958340544896,2,United States,CENSYS-ARIN-01,others,1,SMB Brute-forcer
+206.168.34.32,3,1,1,0.0,0.0,0.0,1.0,0.0,3,-0.0,1,United States,CENSYS-ARIN-01,others,4,Telnet Botnet
+206.168.34.35,2,2,1,0.0,0.0,0.0,0.0,1.0,19,1.0,2,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+206.168.34.44,3,1,1,0.0,0.0,0.0,1.0,0.0,14,-0.0,1,United States,CENSYS-ARIN-01,others,4,Telnet Botnet
+206.168.34.51,4,1,1,0.0,0.0,0.0,1.0,0.0,13,-0.0,1,United States,CENSYS-ARIN-01,others,4,Telnet Botnet
+206.168.34.60,2,2,2,0.0,0.0,0.0,0.0,1.0,4,1.0,2,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+206.168.34.77,2,2,1,0.0,0.0,0.5,0.0,0.5,14,-0.0,1,United States,CENSYS-ARIN-01,others,0,Mixed/Others Scanner
+206.42.21.38,2,1,1,0.0,1.0,0.0,0.0,0.0,5,-0.0,1,Brazil,BRISANET SERVICOS DE TELECOMUNICACOES S.A,others,1,SMB Brute-forcer
+207.154.232.101,3,1,1,0.0,0.0,1.0,0.0,0.0,9,1.584962500721156,3,Germany,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+207.166.176.223,3,1,1,0.0,0.0,1.0,0.0,0.0,22,-0.0,1,Singapore,Byteplus Pte. Ltd.,others,2,SSH Brute-forcer
+207.167.67.22,24,1,4,1.0,0.0,0.0,0.0,0.0,2,3.058746230592378,9,United States,DEDIOUTLET-NETWORKS,others,5,SIP Scanner
+207.167.67.30,31,1,4,1.0,0.0,0.0,0.0,0.0,12,4.018081793978686,18,United States,DEDIOUTLET-NETWORKS,others,5,SIP Scanner
+207.170.56.46,2,1,2,0.0,0.0,0.0,1.0,0.0,8,1.0,2,United States,WINDSTREAM,others,4,Telnet Botnet
+209.38.121.244,2,1,1,0.0,0.0,0.0,0.0,1.0,21,-0.0,1,India,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,0,Mixed/Others Scanner
+209.38.22.88,96,1,1,0.0,0.0,1.0,0.0,0.0,20,1.1856468381836045,3,Australia,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+209.38.30.80,235,1,1,0.0,0.0,1.0,0.0,0.0,12,0.9292276806047044,2,Australia,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+209.38.82.168,235,1,1,0.0,0.0,1.0,0.0,0.0,16,0.9970590569034106,2,Australia,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+209.38.82.85,469,1,2,0.0,0.0,1.0,0.0,0.0,18,1.4467569214333522,3,Australia,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+209.38.85.5,470,1,2,0.0,0.0,1.0,0.0,0.0,17,1.5975828520918551,4,Australia,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+209.38.94.167,235,1,1,0.0,0.0,1.0,0.0,0.0,8,0.8566078546103313,2,Australia,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+209.38.94.168,4,1,1,0.0,0.0,1.0,0.0,0.0,14,-0.0,1,Australia,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+209.97.132.167,2,1,1,0.0,0.0,0.0,0.0,1.0,2,-0.0,1,United Kingdom,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,0,Mixed/Others Scanner
+210.225.99.124,2,1,1,0.0,1.0,0.0,0.0,0.0,18,-0.0,1,Japan,NTT Communications Corporation,others,1,SMB Brute-forcer
+211.103.49.162,23,1,1,0.0,0.0,0.0,1.0,0.0,6,0.8865408928220899,2,China,China Mobile communications corporation,others,4,Telnet Botnet
+211.206.123.174,2,1,1,0.0,1.0,0.0,0.0,0.0,16,-0.0,1,South Korea,SK Broadband Co Ltd,others,1,SMB Brute-forcer
+211.226.58.162,5,1,1,0.0,0.0,0.0,1.0,0.0,19,-0.0,1,South Korea,Korea Telecom,others,4,Telnet Botnet
+211.226.98.106,3,1,1,0.0,0.0,1.0,0.0,0.0,9,-0.0,1,South Korea,Korea Telecom,others,2,SSH Brute-forcer
+211.248.11.4,2,1,1,0.0,0.0,0.0,1.0,0.0,9,1.0,2,South Korea,Korea Telecom,others,4,Telnet Botnet
+211.56.238.6,2,1,1,0.0,1.0,0.0,0.0,0.0,6,-0.0,1,South Korea,"KX NexG Co., LTD",others,1,SMB Brute-forcer
+212.46.225.185,4,1,1,0.0,1.0,0.0,0.0,0.0,5,-0.0,1,Russia,PVimpelCom,others,1,SMB Brute-forcer
+212.83.148.41,2,1,2,1.0,0.0,0.0,0.0,0.0,23,1.0,2,France,Scaleway S.a.s.,others,5,SIP Scanner
+213.242.52.105,2,1,1,0.0,0.0,0.0,1.0,0.0,14,-0.0,1,Russia,Rostelecom,others,4,Telnet Botnet
+213.249.248.113,2,1,1,0.0,0.0,0.0,1.0,0.0,21,-0.0,1,United Kingdom,Kcom Group Limited,others,4,Telnet Botnet
+213.35.120.102,9911,1,4,1.0,0.0,0.0,0.0,0.0,0,4.438396263918276,24,Singapore,ORACLE-BMC-31898,ORACLE-BMC-31898,5,SIP Scanner
+213.60.255.181,2,1,1,0.0,1.0,0.0,0.0,0.0,7,-0.0,1,Spain,"R Cable y Telecable Telecomunicaciones, S.A.U.",others,1,SMB Brute-forcer
+216.10.247.13,4,1,4,0.0,0.0,1.0,0.0,0.0,22,2.0,4,India,PUBLIC-DOMAIN-REGISTRY,others,3,Mixed/Others Scanner
+216.218.206.69,2,2,1,0.0,0.0,0.5,0.0,0.5,7,1.0,2,United States,HURRICANE,others,0,Mixed/Others Scanner
+216.238.84.195,3,1,3,1.0,0.0,0.0,0.0,0.0,11,1.584962500721156,3,Mexico,AS-VULTR,others,5,SIP Scanner
+217.219.164.107,3150,1,1,0.0,1.0,0.0,0.0,0.0,7,0.1060787804152765,2,Iran,Iran Telecommunication Company PJS,Iran Telecommunication Company PJS,1,SMB Brute-forcer
+217.65.221.176,3,1,2,0.0,0.0,0.0,1.0,0.0,19,0.9182958340544896,2,Russia,MTS PJSC,others,4,Telnet Botnet
+217.66.91.78,2,1,1,0.0,1.0,0.0,0.0,0.0,13,-0.0,1,Russia,PVimpelCom,others,1,SMB Brute-forcer
+218.15.121.54,3,1,1,0.0,0.0,1.0,0.0,0.0,17,-0.0,1,China,Chinanet,Chinanet,2,SSH Brute-forcer
+218.21.79.73,11,1,1,0.0,0.0,0.0,0.0,1.0,6,-0.0,1,China,Chinanet,Chinanet,0,Mixed/Others Scanner
+218.28.169.58,6,1,1,0.0,0.0,1.0,0.0,0.0,13,-0.0,1,China,CHINA UNICOM China169 Backbone,others,2,SSH Brute-forcer
+218.50.6.13,2,1,1,0.0,1.0,0.0,0.0,0.0,8,-0.0,1,South Korea,SK Broadband Co Ltd,others,1,SMB Brute-forcer
+218.76.106.8,2,1,1,0.0,0.0,0.0,0.0,1.0,2,-0.0,1,China,Chinanet,Chinanet,0,Mixed/Others Scanner
+219.100.104.46,3,1,2,0.0,0.0,0.0,1.0,0.0,20,-0.0,1,Japan,COMMUNITY NETWORK CENTER INCORPORATED.,others,4,Telnet Botnet
+219.144.66.193,4,1,1,0.0,0.0,1.0,0.0,0.0,5,-0.0,1,China,CHINANET SHAANXI province Cloud Base network,others,2,SSH Brute-forcer
+220.122.83.222,2,1,2,0.0,0.0,0.0,1.0,0.0,1,1.0,2,South Korea,Korea Telecom,others,4,Telnet Botnet
+220.175.106.4,4,1,1,0.0,1.0,0.0,0.0,0.0,8,-0.0,1,China,Chinanet,Chinanet,1,SMB Brute-forcer
+220.181.172.244,2,1,1,0.0,0.0,1.0,0.0,0.0,9,-0.0,1,China,"IDC, China Telecommunications Corporation",others,2,SSH Brute-forcer
+220.247.127.250,2,1,1,0.0,0.0,0.0,1.0,0.0,22,-0.0,1,Japan,ARTERIA Networks Corporation,others,4,Telnet Botnet
+220.82.170.24,2,1,1,0.0,0.0,0.0,1.0,0.0,22,1.0,2,South Korea,Korea Telecom,others,4,Telnet Botnet
+220.88.178.58,3,1,1,0.0,0.0,0.0,1.0,0.0,17,-0.0,1,South Korea,Korea Telecom,others,4,Telnet Botnet
+221.182.17.140,3,1,1,0.0,0.0,1.0,0.0,0.0,14,-0.0,1,China,"China Mobile Communications Group Co., Ltd.",others,2,SSH Brute-forcer
+221.194.148.77,4,1,1,0.0,0.0,1.0,0.0,0.0,13,-0.0,1,China,CHINA UNICOM China169 Backbone,others,2,SSH Brute-forcer
+221.226.215.6,3,1,1,0.0,0.0,1.0,0.0,0.0,5,-0.0,1,China,Chinanet,Chinanet,2,SSH Brute-forcer
+222.100.205.174,5,1,1,0.0,0.0,0.0,1.0,0.0,7,-0.0,1,South Korea,Korea Telecom,others,4,Telnet Botnet
+222.108.251.59,5,1,1,0.0,0.0,0.0,1.0,0.0,11,-0.0,1,South Korea,Korea Telecom,others,4,Telnet Botnet
+222.113.215.84,2,1,2,0.0,0.0,0.0,1.0,0.0,23,1.0,2,South Korea,Korea Telecom,others,4,Telnet Botnet
+222.137.208.80,25,1,1,0.0,0.0,0.0,1.0,0.0,7,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+222.142.255.40,15,1,1,0.0,0.0,0.0,1.0,0.0,17,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+222.186.13.130,2,2,1,0.0,0.0,0.0,0.0,1.0,8,-0.0,1,China,Chinanet,Chinanet,0,Mixed/Others Scanner
+222.188.181.192,3,1,1,0.0,0.0,0.0,1.0,0.0,23,-0.0,1,China,Chinanet,Chinanet,4,Telnet Botnet
+222.65.14.143,4,1,1,0.0,0.0,1.0,0.0,0.0,6,-0.0,1,China,China Telecom Group,China Telecom Group,2,SSH Brute-forcer
+222.67.237.135,1650,1,1,0.0,1.0,0.0,0.0,0.0,7,0.8921212805771683,2,China,China Telecom Group,China Telecom Group,1,SMB Brute-forcer
+223.10.187.12,2,1,1,0.0,0.0,0.0,1.0,0.0,17,-0.0,1,China,Chinanet,Chinanet,4,Telnet Botnet
+223.13.58.5,3,1,1,0.0,0.0,0.0,1.0,0.0,15,-0.0,1,China,Chinanet,Chinanet,4,Telnet Botnet
+223.18.41.232,2,1,1,0.0,0.0,0.0,1.0,0.0,14,-0.0,1,Hong Kong,HGC Global Communications Limited,others,4,Telnet Botnet
+223.240.69.191,6,1,2,0.0,0.0,1.0,0.0,0.0,8,0.9182958340544896,2,China,China Telecom,others,2,SSH Brute-forcer
+223.4.207.83,2,1,1,0.0,1.0,0.0,0.0,0.0,8,-0.0,1,China,"Hangzhou Alibaba Advertising Co.,Ltd.",others,1,SMB Brute-forcer
+223.84.142.194,2,1,1,0.0,0.0,1.0,0.0,0.0,19,-0.0,1,China,"China Mobile Communications Group Co., Ltd.",others,2,SSH Brute-forcer
+223.99.200.254,2,1,1,0.0,0.0,0.0,1.0,0.0,16,1.0,2,China,Shandong Mobile Communication Company Limited,others,4,Telnet Botnet
+23.175.48.211,18561,1,1,1.0,0.0,0.0,0.0,0.0,23,2.987158366667612,8,United States,VDI-NETWORK,VDI-NETWORK,5,SIP Scanner
+24.40.251.41,2,1,1,0.0,0.0,0.0,1.0,0.0,14,1.0,2,United States,FIDN,others,4,Telnet Botnet
+24.45.135.64,5,1,1,0.0,0.0,1.0,0.0,0.0,4,-0.0,1,United States,CABLE-NET-1,others,2,SSH Brute-forcer
+27.205.136.139,10,1,2,0.0,0.0,0.0,1.0,0.0,6,0.9709505944546686,2,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+3.130.96.91,43,3,4,0.0,0.0,0.2790697674418604,0.1627906976744186,0.5581395348837209,13,2.141626161833594,5,United States,AMAZON-02,others,3,Mixed/Others Scanner
+3.131.215.38,24,2,3,0.0,0.0,0.0,0.0,1.0,6,1.5,3,United States,AMAZON-02,others,3,Mixed/Others Scanner
+3.132.23.201,38,3,3,0.0,0.0,0.0,0.3684210526315789,0.631578947368421,6,2.153013528375044,5,United States,AMAZON-02,others,3,Mixed/Others Scanner
+3.134.148.59,17,1,1,0.0,0.0,0.0,1.0,0.0,6,1.5656531116458186,3,United States,AMAZON-02,others,4,Telnet Botnet
+3.17.255.71,3,1,1,0.0,0.0,1.0,0.0,0.0,3,-0.0,1,United States,AMAZON-02,others,2,SSH Brute-forcer
+31.129.22.162,6,3,2,0.0,0.0,0.1666666666666666,0.5,0.3333333333333333,9,2.584962500721156,6,Portugal,Global Connectivity Solutions Llp,others,3,Mixed/Others Scanner
+31.14.32.7,57,4,1,0.0,0.0,0.0,0.0350877192982456,0.9649122807017544,2,4.328075320992507,22,The Netherlands,NewVM B.V.,others,3,Mixed/Others Scanner
+34.136.20.169,2,1,1,0.0,1.0,0.0,0.0,0.0,0,1.0,2,United States,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+34.140.111.149,2,1,1,0.0,1.0,0.0,0.0,0.0,12,-0.0,1,Belgium,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+34.140.32.240,4,2,3,0.0,0.0,0.0,0.0,1.0,12,1.5,3,Belgium,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+34.21.47.236,5,2,1,0.0,0.0,0.0,0.4,0.6,12,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+34.22.139.150,2,1,1,0.0,1.0,0.0,0.0,0.0,12,-0.0,1,Belgium,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+34.38.134.164,5,3,2,0.0,0.0,0.0,0.0,1.0,9,1.521928094887362,3,Belgium,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+34.38.214.10,6,2,3,0.0,0.6666666666666666,0.0,0.0,0.3333333333333333,15,1.9182958340544891,4,Belgium,GOOGLE-CLOUD-PLATFORM,others,3,Mixed/Others Scanner
+34.55.158.124,248,1,1,0.0,0.0,1.0,0.0,0.0,23,-0.0,1,United States,GOOGLE-CLOUD-PLATFORM,others,2,SSH Brute-forcer
+34.76.113.184,2,1,1,0.0,0.0,0.0,0.0,1.0,11,-0.0,1,Belgium,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+34.77.239.50,2,1,2,0.0,0.0,0.0,0.0,1.0,2,1.0,2,Belgium,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+34.78.17.71,2,1,1,0.0,0.0,0.0,0.0,1.0,10,-0.0,1,Belgium,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+34.78.243.22,2,1,1,0.0,1.0,0.0,0.0,0.0,5,-0.0,1,Belgium,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+34.78.54.180,2,1,1,0.0,0.0,0.0,0.0,1.0,23,-0.0,1,Belgium,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+35.203.210.208,2,1,1,0.0,0.0,0.0,0.0,1.0,22,-0.0,1,United Kingdom,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+35.203.210.210,2,2,1,0.0,0.0,0.0,0.0,1.0,1,-0.0,1,United Kingdom,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+35.203.210.222,2,1,2,0.0,0.0,0.0,1.0,0.0,21,-0.0,1,United Kingdom,GOOGLE-CLOUD-PLATFORM,others,4,Telnet Botnet
+35.203.210.28,2,1,1,0.0,0.0,0.0,0.0,1.0,5,-0.0,1,United Kingdom,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+35.203.211.154,2,2,1,0.0,0.0,0.0,0.0,1.0,19,-0.0,1,United Kingdom,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+35.203.211.213,4,3,2,0.0,0.0,0.0,0.0,1.0,19,1.0,2,United Kingdom,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+35.203.211.95,2,1,1,0.0,0.0,0.0,0.0,1.0,9,-0.0,1,United Kingdom,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+35.205.132.81,4,1,1,0.0,1.0,0.0,0.0,0.0,6,1.0,2,Belgium,GOOGLE-CLOUD-PLATFORM,others,1,SMB Brute-forcer
+35.205.19.30,2,1,1,0.0,0.0,0.0,0.0,1.0,18,-0.0,1,Belgium,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+35.205.208.255,2,1,1,0.0,0.0,0.0,0.0,1.0,21,-0.0,1,Belgium,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+35.216.227.70,8,1,2,0.0,0.0,0.0,0.0,1.0,19,1.0,2,Switzerland,GOOGLE,others,0,Mixed/Others Scanner
+35.240.70.70,2,1,1,0.0,0.0,0.0,0.0,1.0,13,-0.0,1,Belgium,GOOGLE-CLOUD-PLATFORM,others,0,Mixed/Others Scanner
+36.136.104.87,5,1,1,0.0,1.0,0.0,0.0,0.0,20,0.9709505944546686,2,China,"China Mobile Communications Group Co., Ltd.",others,1,SMB Brute-forcer
+36.137.109.39,3,1,1,0.0,0.0,1.0,0.0,0.0,5,-0.0,1,China,"China Mobile Communications Group Co., Ltd.",others,2,SSH Brute-forcer
+36.139.124.69,2,1,1,0.0,0.0,1.0,0.0,0.0,21,-0.0,1,China,"China Mobile Communications Group Co., Ltd.",others,2,SSH Brute-forcer
+36.156.22.4,2,2,1,0.0,0.0,0.0,0.0,1.0,11,-0.0,1,China,China Mobile communications corporation,others,0,Mixed/Others Scanner
+36.189.207.209,2,1,1,0.0,0.0,1.0,0.0,0.0,22,-0.0,1,China,"China Mobile Communications Group Co., Ltd.",others,2,SSH Brute-forcer
+36.189.255.162,14,1,1,0.0,0.0,1.0,0.0,0.0,15,0.9852281360342516,2,China,"China Mobile Communications Group Co., Ltd.",others,2,SSH Brute-forcer
+36.228.98.218,2,1,1,0.0,0.0,0.0,1.0,0.0,6,1.0,2,Taiwan,Data Communication Business Group,others,4,Telnet Botnet
+36.249.100.146,2,1,1,0.0,0.0,1.0,0.0,0.0,12,-0.0,1,China,CHINA UNICOM China169 Backbone,others,2,SSH Brute-forcer
+36.3.105.247,2,1,1,0.0,0.0,0.0,1.0,0.0,12,-0.0,1,Japan,ARTERIA Networks Corporation,others,4,Telnet Botnet
+36.65.218.186,44,1,1,0.0,1.0,0.0,0.0,0.0,14,-0.0,1,Indonesia,PT Telekomunikasi Indonesia,others,1,SMB Brute-forcer
+36.67.6.27,2,1,1,0.0,1.0,0.0,0.0,0.0,16,1.0,2,Indonesia,PT Telekomunikasi Indonesia,others,1,SMB Brute-forcer
+38.25.205.242,2,1,1,0.0,0.0,0.0,0.0,1.0,21,-0.0,1,Venezuela,Airtek Solutions C.A.,others,0,Mixed/Others Scanner
+38.76.73.6,2,1,1,0.0,1.0,0.0,0.0,0.0,0,-0.0,1,United States,VOIP-MINUTES-EXCHANGE,others,1,SMB Brute-forcer
+39.106.156.142,2,1,1,0.0,0.0,1.0,0.0,0.0,8,-0.0,1,China,"Hangzhou Alibaba Advertising Co.,Ltd.",others,2,SSH Brute-forcer
+39.164.136.73,2,1,1,0.0,0.0,1.0,0.0,0.0,20,-0.0,1,China,"Henan Mobile Communications Co.,Ltd",others,2,SSH Brute-forcer
+39.38.234.207,2,1,1,0.0,1.0,0.0,0.0,0.0,19,1.0,2,Pakistan,Pakistan Telecommunication Company Limited,others,1,SMB Brute-forcer
+39.43.33.198,5,1,1,0.0,1.0,0.0,0.0,0.0,5,-0.0,1,Pakistan,Pakistan Telecommunication Company Limited,others,1,SMB Brute-forcer
+39.74.36.32,25,1,1,0.0,0.0,0.0,1.0,0.0,2,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+39.85.111.39,8,1,2,0.0,0.0,0.0,1.0,0.0,14,1.0,2,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+39.90.119.219,7,1,1,0.0,0.0,0.0,1.0,0.0,7,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+4.154.212.92,9,6,1,0.0,0.0,0.1111111111111111,0.2222222222222222,0.6666666666666666,22,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,0,Mixed/Others Scanner
+4.154.233.151,9,6,1,0.0,0.0,0.1111111111111111,0.2222222222222222,0.6666666666666666,23,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,0,Mixed/Others Scanner
+4.188.112.137,2,1,1,0.0,0.0,1.0,0.0,0.0,6,-0.0,1,India,MICROSOFT-CORP-MSN-AS-BLOCK,others,2,SSH Brute-forcer
+4.206.0.170,9,6,1,0.0,0.0,0.1111111111111111,0.2222222222222222,0.6666666666666666,22,-0.0,1,Canada,MICROSOFT-CORP-MSN-AS-BLOCK,others,0,Mixed/Others Scanner
+40.76.125.17,2,1,1,0.0,0.0,1.0,0.0,0.0,12,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,2,SSH Brute-forcer
+40.83.56.90,847,118,1,0.0,0.0165289256198347,0.0295159386068477,0.0283353010625737,0.9256198347107438,1,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,0,Mixed/Others Scanner
+41.139.133.163,4,1,1,0.0,1.0,0.0,0.0,0.0,8,-0.0,1,Kenya,Safaricom,others,1,SMB Brute-forcer
+41.208.71.226,2,1,1,0.0,0.0,0.0,0.0,1.0,23,-0.0,1,Libya,General Post and Telecommunication Company,others,0,Mixed/Others Scanner
+41.82.213.42,2,1,1,0.0,1.0,0.0,0.0,0.0,23,-0.0,1,Senegal,SONATEL SONATEL-AS Autonomous System,others,1,SMB Brute-forcer
+42.224.70.164,25,1,1,0.0,0.0,0.0,1.0,0.0,2,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+42.229.183.174,2,1,1,0.0,0.0,0.0,1.0,0.0,19,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+42.233.208.137,6,1,1,0.0,0.0,0.0,1.0,0.0,13,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+42.5.10.117,7,1,1,0.0,0.0,0.0,1.0,0.0,19,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+42.51.34.143,3,1,1,0.0,0.0,1.0,0.0,0.0,8,-0.0,1,China,"Zhengzhou Fastidc Technology Co.,Ltd.",others,2,SSH Brute-forcer
+42.51.34.179,2,1,1,0.0,1.0,0.0,0.0,0.0,19,-0.0,1,China,"Zhengzhou Fastidc Technology Co.,Ltd.",others,1,SMB Brute-forcer
+42.87.77.212,73,1,1,0.0,0.0,0.0,1.0,0.0,1,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+43.129.219.189,2112,540,1,0.0,0.0,0.0,0.0,1.0,6,-0.0,1,Hong Kong,"Tencent Building, Kejizhongyi Avenue","Tencent Building, Kejizhongyi Avenue",0,Mixed/Others Scanner
+43.143.159.39,4,1,1,0.0,0.0,1.0,0.0,0.0,4,-0.0,1,China,Shenzhen Tencent Computer Systems Company Limited,others,2,SSH Brute-forcer
+45.131.155.254,25,4,4,0.0,0.0,0.2,0.16,0.64,1,2.63030833266923,8,Germany,Detai Prosperous Technologies Limited,others,3,Mixed/Others Scanner
+45.135.194.33,3,1,3,0.0,0.0,0.0,0.0,1.0,14,1.584962500721156,3,The Netherlands,Pfcloud UG,others,0,Mixed/Others Scanner
+45.135.57.192,3,1,1,0.0,0.0,1.0,0.0,0.0,15,-0.0,1,The Netherlands,GreenEdge B.V.,others,2,SSH Brute-forcer
+45.148.10.240,290,1,4,0.0,0.0,0.0,0.0,1.0,9,4.331496175899329,22,The Netherlands,Techoff Srv Limited,others,3,Mixed/Others Scanner
+45.156.128.121,2,1,1,1.0,0.0,0.0,0.0,0.0,12,-0.0,1,Portugal,"Sistemas Informaticos, S.A.",others,5,SIP Scanner
+45.182.14.80,2,1,1,0.0,1.0,0.0,0.0,0.0,13,-0.0,1,Brazil,ULTRAXX SERVICOS DE CONECTIVIDADE LTDA,others,1,SMB Brute-forcer
+45.33.80.243,5,2,1,0.0,0.0,0.6,0.0,0.4,18,0.9709505944546686,2,United States,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+45.43.33.218,4,1,1,0.0,0.0,1.0,0.0,0.0,0,-0.0,1,Hong Kong,ZEN-ECN,others,2,SSH Brute-forcer
+45.71.68.159,6,1,1,0.0,0.0,0.0,1.0,0.0,14,-0.0,1,Brazil,AVATO TECNOLOGIA S.A,others,4,Telnet Botnet
+45.78.213.178,3,1,1,0.0,0.0,1.0,0.0,0.0,7,-0.0,1,Singapore,Byteplus Pte. Ltd.,others,2,SSH Brute-forcer
+45.79.0.12,34,1,1,0.0,0.0,0.0,0.0,1.0,0,-0.0,1,United States,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+45.79.181.104,5,1,1,0.0,0.0,1.0,0.0,0.0,18,0.9709505944546686,2,United States,Akamai Connected Cloud,others,2,SSH Brute-forcer
+45.79.181.179,7,3,3,0.0,0.0,0.4285714285714285,0.0,0.5714285714285714,12,1.5566567074628228,3,United States,Akamai Connected Cloud,others,3,Mixed/Others Scanner
+45.79.181.223,10,3,3,0.0,0.2,0.6,0.0,0.2,6,1.9709505944546688,4,United States,Akamai Connected Cloud,others,3,Mixed/Others Scanner
+45.79.181.94,6,1,1,0.0,0.0,1.0,0.0,0.0,0,1.0,2,United States,Akamai Connected Cloud,others,2,SSH Brute-forcer
+45.82.78.254,61,4,4,0.0,0.0,0.0655737704918032,0.4590163934426229,0.4754098360655737,14,3.151671051125644,11,Germany,Detai Prosperous Technologies Limited,others,3,Mixed/Others Scanner
+45.95.146.126,7,1,4,1.0,0.0,0.0,0.0,0.0,4,2.235926350629033,5,The Netherlands,Alsycon B.V.,Alsycon B.V.,5,SIP Scanner
+46.105.70.190,4,2,1,0.0,0.5,0.5,0.0,0.0,13,1.5,3,France,OVH SAS,OVH SAS,2,SSH Brute-forcer
+46.160.139.44,25,1,1,0.0,0.0,0.0,1.0,0.0,17,-0.0,1,Russia,UGMK-Telecom LLC,others,4,Telnet Botnet
+46.235.216.230,5,1,1,0.0,1.0,0.0,0.0,0.0,16,-0.0,1,Russia,Rostelecom,others,1,SMB Brute-forcer
+46.250.239.58,4,1,1,0.0,0.0,0.0,0.0,1.0,18,1.0,2,Singapore,Contabo Asia Private Limited,others,0,Mixed/Others Scanner
+46.26.235.102,2,1,1,0.0,1.0,0.0,0.0,0.0,16,-0.0,1,Spain,Vodafone Spain,others,1,SMB Brute-forcer
+47.103.36.53,6,2,2,0.0,0.0,0.3333333333333333,0.0,0.6666666666666666,8,-0.0,1,China,"Hangzhou Alibaba Advertising Co.,Ltd.",others,0,Mixed/Others Scanner
+47.155.45.146,2,1,1,0.0,1.0,0.0,0.0,0.0,2,-0.0,1,United States,FRONTIER-FRTR,others,1,SMB Brute-forcer
+47.236.169.168,72,1,1,0.0,0.0,1.0,0.0,0.0,14,-0.0,1,Singapore,"Alibaba US Technology Co., Ltd.",others,2,SSH Brute-forcer
+47.237.12.27,231,1,1,0.0,0.0,1.0,0.0,0.0,18,-0.0,1,Singapore,"Alibaba US Technology Co., Ltd.",others,2,SSH Brute-forcer
+47.239.170.26,744,1,1,0.0,0.0,1.0,0.0,0.0,13,0.0147592525056429,2,Hong Kong,"Alibaba US Technology Co., Ltd.",others,2,SSH Brute-forcer
+47.250.54.216,3,1,1,0.0,0.0,0.0,0.0,1.0,2,-0.0,1,Malaysia,"Alibaba US Technology Co., Ltd.",others,0,Mixed/Others Scanner
+47.251.57.225,4,1,1,0.0,0.0,0.0,1.0,0.0,14,-0.0,1,United States,"Alibaba US Technology Co., Ltd.",others,4,Telnet Botnet
+47.251.80.254,4,1,1,0.0,1.0,0.0,0.0,0.0,7,-0.0,1,United States,"Alibaba US Technology Co., Ltd.",others,1,SMB Brute-forcer
+47.74.51.79,4,1,1,0.0,0.0,0.0,0.0,1.0,10,-0.0,1,Japan,"Alibaba US Technology Co., Ltd.",others,0,Mixed/Others Scanner
+47.82.2.126,62,1,1,0.0,0.0,1.0,0.0,0.0,7,-0.0,1,Singapore,"Alibaba US Technology Co., Ltd.",others,2,SSH Brute-forcer
+47.83.255.85,109,1,1,0.0,0.0,1.0,0.0,0.0,22,1.6269417037603378,4,Hong Kong,"Alibaba US Technology Co., Ltd.",others,2,SSH Brute-forcer
+47.84.181.125,7,1,1,0.0,0.0,0.0,0.0,1.0,12,-0.0,1,Singapore,"Alibaba US Technology Co., Ltd.",others,0,Mixed/Others Scanner
+47.96.40.217,8,1,1,0.0,0.0,1.0,0.0,0.0,6,0.954434002924965,2,China,"Hangzhou Alibaba Advertising Co.,Ltd.",others,2,SSH Brute-forcer
+49.142.53.4,2,1,1,0.0,0.0,0.0,1.0,0.0,23,-0.0,1,South Korea,HYUNDAI COMMUNICATIONS NETWORK,others,4,Telnet Botnet
+49.212.87.171,2,1,1,0.0,0.0,0.0,0.0,1.0,10,-0.0,1,Japan,SAKURA Internet Inc.,others,0,Mixed/Others Scanner
+49.228.239.202,1557,1,1,0.0,1.0,0.0,0.0,0.0,12,0.1148533203441534,2,Thailand,AIS Fibre,AIS Fibre,1,SMB Brute-forcer
+49.71.103.91,4,1,1,0.0,0.0,0.0,1.0,0.0,5,-0.0,1,China,Chinanet,Chinanet,4,Telnet Botnet
+49.72.213.251,2,1,1,0.0,0.0,1.0,0.0,0.0,0,-0.0,1,China,Chinanet,Chinanet,2,SSH Brute-forcer
+49.73.43.104,3,1,1,0.0,0.0,1.0,0.0,0.0,9,-0.0,1,China,Chinanet,Chinanet,2,SSH Brute-forcer
+49.88.156.34,9,1,1,0.0,0.0,0.0,1.0,0.0,11,2.6416041678685933,7,China,Chinanet,Chinanet,4,Telnet Botnet
+5.183.209.244,27,1,4,0.0,0.0,0.0,0.0,1.0,16,3.43971065015136,12,The Netherlands,Amarutu Technology Ltd,others,3,Mixed/Others Scanner
+5.190.15.25,2,1,1,0.0,1.0,0.0,0.0,0.0,13,-0.0,1,Iran,Iran Telecommunication Company PJS,Iran Telecommunication Company PJS,1,SMB Brute-forcer
+5.196.115.163,16037,1,4,1.0,0.0,0.0,0.0,0.0,12,3.1890080180968154,10,France,OVH SAS,OVH SAS,5,SIP Scanner
+5.39.61.118,2,1,2,1.0,0.0,0.0,0.0,0.0,1,1.0,2,France,OVH SAS,OVH SAS,5,SIP Scanner
+51.159.103.10,6,1,1,0.0,0.0,1.0,0.0,0.0,18,-0.0,1,France,Scaleway S.a.s.,others,2,SSH Brute-forcer
+51.89.162.163,893,1,4,1.0,0.0,0.0,0.0,0.0,12,4.361828078877705,24,United Kingdom,OVH SAS,OVH SAS,5,SIP Scanner
+52.140.134.121,2,1,1,0.0,1.0,0.0,0.0,0.0,23,-0.0,1,India,MICROSOFT-CORP-MSN-AS-BLOCK,others,1,SMB Brute-forcer
+52.142.57.37,2,1,1,0.0,1.0,0.0,0.0,0.0,14,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,1,SMB Brute-forcer
+52.188.227.37,2,1,1,0.0,0.0,1.0,0.0,0.0,15,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,2,SSH Brute-forcer
+57.129.64.10,16,1,1,0.0,0.0,0.0,0.0,1.0,6,2.10845859334435,5,Germany,OVH SAS,OVH SAS,0,Mixed/Others Scanner
+58.42.204.29,8,1,2,0.0,0.0,1.0,0.0,0.0,22,0.954434002924965,2,China,Chinanet,Chinanet,2,SSH Brute-forcer
+58.49.40.104,523,1,1,0.0,0.0,0.0,0.0,1.0,9,-0.0,1,China,Chinanet,Chinanet,0,Mixed/Others Scanner
+59.13.164.238,2,1,2,0.0,0.0,0.0,1.0,0.0,14,1.0,2,South Korea,Korea Telecom,others,4,Telnet Botnet
+59.182.105.234,1068,1,1,0.0,1.0,0.0,0.0,0.0,9,-0.0,1,India,National Internet Backbone,National Internet Backbone,1,SMB Brute-forcer
+59.182.121.182,25,1,1,0.0,0.0,0.0,1.0,0.0,1,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+59.182.41.133,376,1,1,0.0,0.0,0.0,0.0,1.0,9,1.5466332213379663,3,India,National Internet Backbone,National Internet Backbone,0,Mixed/Others Scanner
+59.88.129.143,7,1,1,0.0,0.0,0.0,1.0,0.0,5,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+59.90.152.43,3,1,1,0.0,0.0,0.0,1.0,0.0,10,0.9182958340544896,2,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+59.93.20.201,8,1,1,0.0,0.0,0.0,1.0,0.0,22,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+59.99.4.150,7,1,1,0.0,0.0,0.0,1.0,0.0,17,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+60.172.59.153,2,1,2,0.0,0.0,0.0,1.0,0.0,6,1.0,2,China,Chinanet,Chinanet,4,Telnet Botnet
+60.208.86.66,5,1,3,0.0,0.0,1.0,0.0,0.0,10,1.521928094887362,3,China,CHINA UNICOM China169 Backbone,others,2,SSH Brute-forcer
+61.109.90.238,2,1,1,0.0,0.0,0.0,1.0,0.0,0,-0.0,1,South Korea,SK Broadband Co Ltd,others,4,Telnet Botnet
+61.138.100.146,19,1,1,0.0,0.0,1.0,0.0,0.0,18,-0.0,1,China,CHINA UNICOM China169 Backbone,others,2,SSH Brute-forcer
+61.158.134.136,2,1,1,0.0,0.0,1.0,0.0,0.0,19,-0.0,1,China,CHINA UNICOM China169 Backbone,others,2,SSH Brute-forcer
+61.184.91.202,2,1,1,0.0,1.0,0.0,0.0,0.0,22,-0.0,1,China,Chinanet,Chinanet,1,SMB Brute-forcer
+61.197.46.97,2,1,1,0.0,0.0,0.0,1.0,0.0,6,-0.0,1,Japan,"NTT PC Communications, Inc.",others,4,Telnet Botnet
+61.205.233.240,2,1,1,0.0,0.0,0.0,1.0,0.0,1,-0.0,1,Japan,NTT-ME Corporation,others,4,Telnet Botnet
+61.3.26.139,7,1,1,0.0,0.0,0.0,1.0,0.0,11,-0.0,1,India,National Internet Backbone,National Internet Backbone,4,Telnet Botnet
+61.52.156.134,5,1,1,0.0,0.0,0.0,1.0,0.0,2,-0.0,1,China,CHINA UNICOM China169 Backbone,others,4,Telnet Botnet
+62.215.155.20,4,1,1,0.0,1.0,0.0,0.0,0.0,11,-0.0,1,Kuwait,Fast Communication Company Ltd,others,1,SMB Brute-forcer
+64.190.76.10,2,2,1,0.0,0.0,0.5,0.5,0.0,22,-0.0,1,United States,'Association Osservatorio Nessuno ODV',others,2,SSH Brute-forcer
+64.226.74.49,10,1,1,0.0,0.0,1.0,0.0,0.0,3,-0.0,1,Germany,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+64.227.125.115,8,1,1,0.0,0.0,1.0,0.0,0.0,21,-0.0,1,Germany,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+64.227.42.21,2,1,1,0.0,0.0,1.0,0.0,0.0,14,-0.0,1,United Kingdom,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+64.62.156.122,2,2,2,0.0,0.0,0.5,0.0,0.5,1,1.0,2,United States,HURRICANE,others,0,Mixed/Others Scanner
+64.62.156.24,2,1,2,0.0,1.0,0.0,0.0,0.0,1,1.0,2,United States,HURRICANE,others,1,SMB Brute-forcer
+64.62.156.66,2,1,1,0.0,1.0,0.0,0.0,0.0,18,-0.0,1,United States,HURRICANE,others,1,SMB Brute-forcer
+64.62.197.62,2,2,2,0.0,0.0,0.0,0.5,0.5,19,1.0,2,United States,HURRICANE,others,0,Mixed/Others Scanner
+64.62.197.80,2,2,2,0.0,0.5,0.5,0.0,0.0,11,1.0,2,United States,HURRICANE,others,2,SSH Brute-forcer
+64.95.96.132,10,1,4,1.0,0.0,0.0,0.0,0.0,13,3.121928094887362,9,The Netherlands,SINGLEHOP-LLC,SINGLEHOP-LLC,5,SIP Scanner
+64.95.96.148,10,1,4,1.0,0.0,0.0,0.0,0.0,0,3.121928094887362,9,The Netherlands,SINGLEHOP-LLC,SINGLEHOP-LLC,5,SIP Scanner
+65.188.205.66,2,1,1,0.0,0.0,1.0,0.0,0.0,12,-0.0,1,United States,TWC-11426-CAROLINAS,others,2,SSH Brute-forcer
+65.49.1.10,2,2,2,0.0,0.0,0.0,0.0,1.0,9,1.0,2,United States,HURRICANE,others,0,Mixed/Others Scanner
+65.49.1.107,2,1,1,0.0,1.0,0.0,0.0,0.0,20,-0.0,1,United States,HURRICANE,others,1,SMB Brute-forcer
+65.49.1.152,2,1,2,0.0,0.0,0.0,0.0,1.0,19,1.0,2,United States,HURRICANE,others,0,Mixed/Others Scanner
+65.49.1.192,2,2,2,0.0,0.0,0.0,0.5,0.5,19,1.0,2,United States,HURRICANE,others,0,Mixed/Others Scanner
+66.175.211.65,5,1,1,0.0,0.0,0.0,0.0,1.0,0,-0.0,1,United States,Akamai Connected Cloud,others,0,Mixed/Others Scanner
+66.175.213.4,3,1,1,0.0,0.0,1.0,0.0,0.0,6,-0.0,1,United States,Akamai Connected Cloud,others,2,SSH Brute-forcer
+66.179.208.159,4,1,1,0.0,0.0,1.0,0.0,0.0,16,-0.0,1,United States,IONOS SE,others,2,SSH Brute-forcer
+66.228.53.4,2,1,1,0.0,0.0,1.0,0.0,0.0,0,-0.0,1,United States,Akamai Connected Cloud,others,2,SSH Brute-forcer
+66.240.223.202,3,3,2,0.0,0.0,0.3333333333333333,0.0,0.6666666666666666,9,1.584962500721156,3,United States,CARINET,others,0,Mixed/Others Scanner
+66.240.236.109,3,2,2,0.0,0.0,0.0,0.0,1.0,6,1.584962500721156,3,United States,CARINET,others,0,Mixed/Others Scanner
+68.183.197.169,6,1,2,0.0,0.0,0.0,0.0,1.0,12,-0.0,1,Canada,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,0,Mixed/Others Scanner
+68.183.199.113,5,1,1,0.0,0.0,1.0,0.0,0.0,13,-0.0,1,Canada,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+68.183.90.191,248,1,1,0.0,0.0,1.0,0.0,0.0,13,-0.0,1,India,DIGITALOCEAN-ASN,DIGITALOCEAN-ASN,2,SSH Brute-forcer
+69.175.4.222,6,1,2,1.0,0.0,0.0,0.0,0.0,11,1.7924812503605778,4,United States,SINGLEHOP-LLC,SINGLEHOP-LLC,5,SIP Scanner
+71.6.146.186,3,1,1,0.0,1.0,0.0,0.0,0.0,23,-0.0,1,United States,CARINET,others,1,SMB Brute-forcer
+71.6.199.65,2,2,2,0.0,0.0,0.5,0.0,0.5,3,1.0,2,United States,CARINET,others,0,Mixed/Others Scanner
+71.6.232.20,5,1,4,0.0,0.0,0.0,0.0,1.0,4,2.321928094887362,5,United States,CARINET,others,3,Mixed/Others Scanner
+71.6.232.25,5,1,4,0.0,0.0,0.0,1.0,0.0,1,2.321928094887362,5,United States,CARINET,others,3,Mixed/Others Scanner
+71.6.232.27,4,1,4,0.0,0.0,0.0,0.0,1.0,9,2.0,4,United States,CARINET,others,3,Mixed/Others Scanner
+72.167.37.60,22,2,1,0.0,0.0,0.7272727272727273,0.2727272727272727,0.0,20,-0.0,1,United States,GO-DADDY-COM-LLC,others,2,SSH Brute-forcer
+74.235.100.130,3,1,1,0.0,1.0,0.0,0.0,0.0,11,-0.0,1,United States,MICROSOFT-CORP-MSN-AS-BLOCK,others,1,SMB Brute-forcer
+77.221.140.149,3824,1,1,1.0,0.0,0.0,0.0,0.0,23,3.512812981220669,12,Sweden,Aeza International Ltd,Aeza International Ltd,5,SIP Scanner
+77.239.215.174,7,1,1,0.0,0.0,0.0,1.0,0.0,10,-0.0,1,Russia,MTS PJSC,others,4,Telnet Botnet
+77.239.218.65,15,1,1,0.0,0.0,0.0,1.0,0.0,20,-0.0,1,Russia,MTS PJSC,others,4,Telnet Botnet
+78.187.202.158,2,1,1,0.0,1.0,0.0,0.0,0.0,20,-0.0,1,Türkiye,Turk Telekom,others,1,SMB Brute-forcer
+78.190.234.224,7,1,1,0.0,1.0,0.0,0.0,0.0,5,-0.0,1,Türkiye,Turk Telekom,others,1,SMB Brute-forcer
+79.116.141.3,2,1,1,0.0,0.0,1.0,0.0,0.0,6,-0.0,1,Spain,Digi Spain Telecom S.l.,others,2,SSH Brute-forcer
+79.124.8.112,4,1,2,0.0,0.0,0.0,1.0,0.0,6,2.0,4,The Netherlands,ColocaTel Inc.,others,4,Telnet Botnet
+79.124.8.120,4,1,4,0.0,0.0,0.0,0.0,1.0,18,-0.0,1,The Netherlands,ColocaTel Inc.,others,0,Mixed/Others Scanner
+8.134.159.4,4,1,1,0.0,0.0,1.0,0.0,0.0,14,1.0,2,China,"Hangzhou Alibaba Advertising Co.,Ltd.",others,2,SSH Brute-forcer
+8.137.124.200,2,1,1,0.0,0.0,1.0,0.0,0.0,15,-0.0,1,China,"Hangzhou Alibaba Advertising Co.,Ltd.",others,2,SSH Brute-forcer
+8.138.155.88,2,1,1,0.0,0.0,1.0,0.0,0.0,8,-0.0,1,China,"Hangzhou Alibaba Advertising Co.,Ltd.",others,2,SSH Brute-forcer
+8.138.44.199,244,1,1,0.0,0.0,1.0,0.0,0.0,13,-0.0,1,China,"Hangzhou Alibaba Advertising Co.,Ltd.",others,2,SSH Brute-forcer
+8.152.209.0,3,1,1,0.0,0.0,1.0,0.0,0.0,20,-0.0,1,China,"Hangzhou Alibaba Advertising Co.,Ltd.",others,2,SSH Brute-forcer
+8.211.42.91,4,1,1,0.0,0.0,0.0,1.0,0.0,0,-0.0,1,Germany,"Alibaba US Technology Co., Ltd.",others,4,Telnet Botnet
+8.217.39.220,16,1,1,0.0,0.0,1.0,0.0,0.0,16,-0.0,1,Hong Kong,"Alibaba US Technology Co., Ltd.",others,2,SSH Brute-forcer
+8.218.249.185,10,1,1,0.0,0.0,1.0,0.0,0.0,14,-0.0,1,Hong Kong,"Alibaba US Technology Co., Ltd.",others,2,SSH Brute-forcer
+8.219.100.40,2,2,1,0.0,0.0,0.5,0.0,0.5,9,1.0,2,Singapore,"Alibaba US Technology Co., Ltd.",others,0,Mixed/Others Scanner
+8.221.139.48,4,1,1,0.0,0.0,0.0,0.0,1.0,20,-0.0,1,Japan,"Alibaba US Technology Co., Ltd.",others,0,Mixed/Others Scanner
+80.131.161.42,2,1,1,0.0,0.0,1.0,0.0,0.0,7,-0.0,1,Germany,Deutsche Telekom AG,others,2,SSH Brute-forcer
+80.248.67.63,2,1,1,0.0,1.0,0.0,0.0,0.0,14,1.0,2,Togo,CAFENET,others,1,SMB Brute-forcer
+80.82.70.133,3,2,3,0.0,0.0,0.3333333333333333,0.0,0.6666666666666666,15,0.9182958340544896,2,Seychelles,IP Volume inc,others,0,Mixed/Others Scanner
+80.82.77.202,3,3,3,0.0,0.0,0.0,0.3333333333333333,0.6666666666666666,2,1.584962500721156,3,The Netherlands,IP Volume inc,others,3,Mixed/Others Scanner
+80.82.77.33,4,1,1,0.0,0.0,0.0,1.0,0.0,22,-0.0,1,The Netherlands,IP Volume inc,others,4,Telnet Botnet
+80.90.185.250,246,1,1,0.0,0.0,1.0,0.0,0.0,2,0.9995708393473224,2,Russia,Jsc timeweb,others,2,SSH Brute-forcer
+80.94.95.117,3,1,3,0.0,0.0,1.0,0.0,0.0,23,0.9182958340544896,2,Romania,SS-Net,others,2,SSH Brute-forcer
+81.17.92.44,2,1,1,0.0,1.0,0.0,0.0,0.0,22,-0.0,1,Azerbaijan,Baku Telephone Communication LLC,others,1,SMB Brute-forcer
+83.118.111.5,2,1,1,0.0,1.0,0.0,0.0,0.0,20,-0.0,1,Thailand,Symphony Communication Thailand PCL.,others,1,SMB Brute-forcer
+85.185.238.75,3149,1,1,0.0,1.0,0.0,0.0,0.0,8,1.0871786636862582,3,Iran,Iran Telecommunication Company PJS,Iran Telecommunication Company PJS,1,SMB Brute-forcer
+86.48.18.128,2,1,1,0.0,1.0,0.0,0.0,0.0,19,-0.0,1,United States,NL-811-40021,others,1,SMB Brute-forcer
+87.106.231.218,2,1,2,0.0,1.0,0.0,0.0,0.0,23,-0.0,1,Germany,IONOS SE,others,1,SMB Brute-forcer
+87.121.84.29,4,1,3,0.0,0.0,0.0,1.0,0.0,0,2.0,4,United States,Vpsvault.host Ltd,others,3,Mixed/Others Scanner
+87.228.36.129,2,1,1,0.0,0.0,0.0,0.0,1.0,4,-0.0,1,Russia,JSC Selectel,others,0,Mixed/Others Scanner
+87.236.176.107,2,1,1,0.0,0.0,1.0,0.0,0.0,8,-0.0,1,United Kingdom,Driftnet Ltd,others,2,SSH Brute-forcer
+87.236.176.125,2,1,1,0.0,0.0,1.0,0.0,0.0,6,-0.0,1,United Kingdom,Driftnet Ltd,others,2,SSH Brute-forcer
+87.236.176.198,2,1,1,0.0,0.0,1.0,0.0,0.0,23,-0.0,1,United Kingdom,Driftnet Ltd,others,2,SSH Brute-forcer
+87.236.176.221,2,1,1,0.0,0.0,1.0,0.0,0.0,21,-0.0,1,United Kingdom,Driftnet Ltd,others,2,SSH Brute-forcer
+87.246.0.68,2,1,1,0.0,0.0,1.0,0.0,0.0,14,-0.0,1,Bulgaria,Global Communication Net Plc,others,2,SSH Brute-forcer
+88.151.192.197,2,1,1,0.0,0.0,0.0,0.0,1.0,14,-0.0,1,Ukraine,Global Connectivity Solutions Llp,others,0,Mixed/Others Scanner
+89.221.203.77,37,1,1,0.0,0.0,1.0,0.0,0.0,18,-0.0,1,Russia,Global Internet Solutions LLC,others,2,SSH Brute-forcer
+90.203.67.39,2,1,1,0.0,0.0,0.0,1.0,0.0,23,-0.0,1,United Kingdom,Sky UK Limited,others,4,Telnet Botnet
+91.122.61.22,2,1,1,0.0,0.0,0.0,1.0,0.0,3,1.0,2,Russia,Rostelecom,others,4,Telnet Botnet
+91.134.73.222,14,3,1,0.0,0.0,0.0,0.0,1.0,0,3.3248629576173565,11,France,OVH SAS,OVH SAS,3,Mixed/Others Scanner
+91.134.73.230,12,3,1,0.0,0.3333333333333333,0.1666666666666666,0.0,0.5,6,2.918295834054489,8,France,OVH SAS,OVH SAS,3,Mixed/Others Scanner
+91.144.19.80,2,1,1,0.0,1.0,0.0,0.0,0.0,14,-0.0,1,Syria,Syrian Telecommunication Private Closed Joint Stock Company,others,1,SMB Brute-forcer
+91.185.15.122,47,1,1,0.0,1.0,0.0,0.0,0.0,8,-0.0,1,Kazakhstan,JSC Transtelecom,others,1,SMB Brute-forcer
+91.196.152.104,2,1,1,0.0,0.0,0.0,0.0,1.0,22,-0.0,1,France,ONYPHE SAS,others,0,Mixed/Others Scanner
+91.196.152.151,2,1,1,0.0,0.0,0.0,0.0,1.0,1,-0.0,1,France,ONYPHE SAS,others,0,Mixed/Others Scanner
+91.196.152.22,2,1,2,0.0,0.0,0.0,0.0,1.0,7,1.0,2,France,ONYPHE SAS,others,0,Mixed/Others Scanner
+91.196.152.222,2,1,1,0.0,0.0,0.0,0.0,1.0,17,-0.0,1,France,ONYPHE SAS,others,0,Mixed/Others Scanner
+91.196.152.65,2,1,1,0.0,0.0,0.0,0.0,1.0,6,-0.0,1,France,ONYPHE SAS,others,0,Mixed/Others Scanner
+91.230.168.196,4,3,1,0.0,0.0,0.0,0.0,1.0,15,-0.0,1,United States,ONYPHE SAS,others,0,Mixed/Others Scanner
+91.65.137.63,4,1,1,0.0,0.0,1.0,0.0,0.0,5,-0.0,1,Germany,Vodafone GmbH,others,2,SSH Brute-forcer
+92.118.39.62,78,1,3,0.0,0.0,1.0,0.0,0.0,21,3.530352821559927,12,United States,Unmanaged Ltd,others,3,Mixed/Others Scanner
+92.118.39.71,22,1,3,0.0,0.0,1.0,0.0,0.0,11,1.913977073182752,5,United States,Unmanaged Ltd,others,3,Mixed/Others Scanner
+92.118.39.92,6,1,2,0.0,0.0,1.0,0.0,0.0,9,1.2516291673878228,3,United States,Unmanaged Ltd,others,2,SSH Brute-forcer
+92.118.39.95,10,1,1,0.0,0.0,1.0,0.0,0.0,21,0.9219280948873624,3,United States,Unmanaged Ltd,others,2,SSH Brute-forcer
+92.50.143.166,5,1,1,0.0,1.0,0.0,0.0,0.0,3,-0.0,1,Russia,JSC Ufanet,others,1,SMB Brute-forcer
+93.123.109.19,12,11,1,0.0,0.1666666666666666,0.0833333333333333,0.0833333333333333,0.6666666666666666,23,0.8112781244591328,2,Bulgaria,Techoff Srv Limited,others,0,Mixed/Others Scanner
+93.126.7.235,2,1,1,0.0,0.0,0.0,1.0,0.0,5,-0.0,1,Iran,Asmanfaraz Sepahan Company (P.J.S),others,4,Telnet Botnet
+94.102.49.155,15,3,3,0.0,0.0,0.1333333333333333,0.0,0.8666666666666667,15,0.9055872616982604,3,The Netherlands,IP Volume inc,others,0,Mixed/Others Scanner
+94.102.49.186,14,2,4,0.0,0.0,0.5,0.5,0.0,14,2.5216406363433186,6,The Netherlands,IP Volume inc,others,3,Mixed/Others Scanner
+94.232.71.143,5,1,1,0.0,0.0,0.0,1.0,0.0,10,-0.0,1,Russia,Obyedinyonniye Lokalniye Seti Ltd.,others,4,Telnet Botnet
+95.167.178.31,45,1,1,0.0,1.0,0.0,0.0,0.0,23,-0.0,1,Russia,Rostelecom,others,1,SMB Brute-forcer
+95.182.115.26,336,1,1,0.0,0.0,1.0,0.0,0.0,13,1.643909482504003,4,Russia,Cgi Global Limited,others,2,SSH Brute-forcer
+95.96.129.197,4,1,1,0.0,0.0,0.0,1.0,0.0,18,1.0,2,The Netherlands,Vodafone Libertel B.V.,others,4,Telnet Botnet
